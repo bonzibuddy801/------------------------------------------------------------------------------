@@ -2,9 +2,9 @@
   "name": "arras-io",
   "version": "1.0.0",
   "description": "A fanmade sequel to diep.io",
-  "main": "server/server.js",
+  "main": "",
   "scripts": {
-    "start": "gulp run"
+    "start": "node src/server/server.js"
   },
   "author": "Anthony Hengst",
   "license": "GNU GPL3",
