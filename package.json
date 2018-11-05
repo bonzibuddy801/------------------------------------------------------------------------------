@@ -4,7 +4,7 @@
   "description": "A fanmade sequel to diep.io",
   "main": "",
   "scripts": {
-    "start": "node src/server/server.js"
+    "start": "node arrasio/src/server/server.js"
   },
   "author": "Anthony Hengst",
   "license": "GNU GPL3",
