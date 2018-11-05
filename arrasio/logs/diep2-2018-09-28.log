@@ -1,0 +1,75 @@
+21:35:17.256 WARN  ~~ LOOPS: 11. ENTITY #: 280//39. VIEW #: 1. BACKLOGGED :: 143.727%! ~~ 
+21:35:17.256 WARN  Total activation time: 85 
+21:35:17.257 WARN  Total collision time: 36 
+21:35:17.257 WARN  Total cycle time: 394 
+21:35:17.257 WARN  Total player update time: 47 
+21:35:17.257 WARN  Total lb+minimap processing time: 12 
+21:35:17.257 WARN  Total entity physics calculation time: 41 
+21:35:17.257 WARN  Total entity life+thought cycle time: 98 
+21:35:17.257 WARN  Total entity selfie-taking time: 30 
+21:35:17.257 WARN  Total time: 743 
+21:35:47.217 WARN  ~~ LOOPS: 13. ENTITY #: 299//48. VIEW #: 1. BACKLOGGED :: 102.231%! ~~ 
+21:35:47.217 WARN  Total activation time: 58 
+21:35:47.232 WARN  Total collision time: 1 
+21:35:47.232 WARN  Total cycle time: 384 
+21:35:47.232 WARN  Total player update time: 66 
+21:35:47.232 WARN  Total lb+minimap processing time: 117 
+21:35:47.232 WARN  Total entity physics calculation time: 88 
+21:35:47.233 WARN  Total entity life+thought cycle time: 126 
+21:35:47.233 WARN  Total entity selfie-taking time: 13 
+21:35:47.233 WARN  Total time: 853 
+21:37:47.258 WARN  ~~ LOOPS: 10. ENTITY #: 325//21. VIEW #: 0. BACKLOGGED :: 135.900%! ~~ 
+21:37:47.262 WARN  Total activation time: 139 
+21:37:47.262 WARN  Total collision time: 39 
+21:37:47.262 WARN  Total cycle time: 275 
+21:37:47.263 WARN  Total player update time: 0 
+21:37:47.263 WARN  Total lb+minimap processing time: 58 
+21:37:47.263 WARN  Total entity physics calculation time: 46 
+21:37:47.264 WARN  Total entity life+thought cycle time: 51 
+21:37:47.264 WARN  Total entity selfie-taking time: 34 
+21:37:47.264 WARN  Total time: 642 
+21:44:24.668 WARN  Non-binary packet. Kicking. 1 warning. 
+21:45:01.279 ERROR Egg 
+21:45:01.282 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:351:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5146:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5141:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5206:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:45:01.283 ERROR Egg 
+21:45:01.284 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:351:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5146:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5141:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5206:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:46:07.592 ERROR Egg 
+21:46:07.592 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:351:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5146:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5141:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5206:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:46:07.804 ERROR Egg 
+21:46:07.804 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:351:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5146:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5141:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5206:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 

@@ -1,0 +1,11 @@
+18:25:24.903 WARN  Non-binary packet. Kicking. 1 warning. 
+21:47:43.005 WARN  ~~ LOOPS: 2. ENTITY #: 264//7. VIEW #: 0. BACKLOGGED :: 375.000%! ~~ 
+21:47:43.006 WARN  Total activation time: 192 
+21:47:43.006 WARN  Total collision time: 0 
+21:47:43.006 WARN  Total cycle time: 58 
+21:47:43.006 WARN  Total player update time: 0 
+21:47:43.006 WARN  Total lb+minimap processing time: 45 
+21:47:43.006 WARN  Total entity physics calculation time: 0 
+21:47:43.006 WARN  Total entity life+thought cycle time: 0 
+21:47:43.006 WARN  Total entity selfie-taking time: 1 
+21:47:43.006 WARN  Total time: 296 

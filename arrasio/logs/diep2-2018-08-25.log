@@ -1,0 +1,21 @@
+13:54:19.575 WARN  Malformed command packet. Kicking. 1 warning. 
+14:06:55.517 WARN  ~~ LOOPS: 13. ENTITY #: 357//221. VIEW #: 1. BACKLOGGED :: 112.846%! ~~ 
+14:06:55.517 WARN  Total activation time: 76 
+14:06:55.518 WARN  Total collision time: 34 
+14:06:55.519 WARN  Total cycle time: 379 
+14:06:55.520 WARN  Total player update time: 126 
+14:06:55.520 WARN  Total lb+minimap processing time: 6 
+14:06:55.521 WARN  Total entity physics calculation time: 17 
+14:06:55.521 WARN  Total entity life+thought cycle time: 114 
+14:06:55.521 WARN  Total entity selfie-taking time: 52 
+14:06:55.521 WARN  Total time: 804 
+14:07:25.931 WARN  ~~ LOOPS: 10. ENTITY #: 597//484. VIEW #: 1. BACKLOGGED :: 176.100%! ~~ 
+14:07:25.931 WARN  Total activation time: 102 
+14:07:25.932 WARN  Total collision time: 110 
+14:07:25.932 WARN  Total cycle time: 375 
+14:07:25.932 WARN  Total player update time: 131 
+14:07:25.932 WARN  Total lb+minimap processing time: 23 
+14:07:25.933 WARN  Total entity physics calculation time: 81 
+14:07:25.933 WARN  Total entity life+thought cycle time: 90 
+14:07:25.933 WARN  Total entity selfie-taking time: 23 
+14:07:25.933 WARN  Total time: 935 

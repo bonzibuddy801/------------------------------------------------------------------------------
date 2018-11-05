@@ -1,0 +1,55 @@
+14:10:54.330 WARN  ~~ LOOPS: 19. ENTITY #: 163//41. VIEW #: 1. BACKLOGGED :: 856.737%! ~~ 
+14:10:54.330 WARN  Total activation time: 3 
+14:10:54.331 WARN  Total collision time: 13 
+14:10:54.331 WARN  Total cycle time: 5410 
+14:10:54.331 WARN  Total player update time: 8 
+14:10:54.331 WARN  Total lb+minimap processing time: 1 
+14:10:54.331 WARN  Total entity physics calculation time: 3 
+14:10:54.331 WARN  Total entity life+thought cycle time: 5403 
+14:10:54.331 WARN  Total entity selfie-taking time: 1 
+14:10:54.331 WARN  Total time: 10842 
+14:57:00.125 WARN  Non-binary packet. Kicking. 1 warning. 
+20:15:47.958 WARN  Malformed command packet. Kicking. 1 warning. 
+21:24:28.443 WARN  ~~ LOOPS: 10. ENTITY #: 224//13. VIEW #: 0. BACKLOGGED :: 104.700%! ~~ 
+21:24:28.444 WARN  Total activation time: 331 
+21:24:28.444 WARN  Total collision time: 0 
+21:24:28.444 WARN  Total cycle time: 18 
+21:24:28.444 WARN  Total player update time: 0 
+21:24:28.444 WARN  Total lb+minimap processing time: 14 
+21:24:28.444 WARN  Total entity physics calculation time: 6 
+21:24:28.444 WARN  Total entity life+thought cycle time: 8 
+21:24:28.444 WARN  Total entity selfie-taking time: 0 
+21:24:28.444 WARN  Total time: 377 
+23:54:56.604 ERROR Egg 
+23:54:56.612 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:350:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5144:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5139:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5204:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+23:54:58.868 ERROR Egg 
+23:54:58.869 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:350:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5144:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5139:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5204:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+23:55:58.068 WARN  ~~ LOOPS: 13. ENTITY #: 466//229. VIEW #: 2. BACKLOGGED :: 104.769%! ~~ 
+23:55:58.068 WARN  Total activation time: 55 
+23:55:58.068 WARN  Total collision time: 77 
+23:55:58.068 WARN  Total cycle time: 321 
+23:55:58.068 WARN  Total player update time: 150 
+23:55:58.068 WARN  Total lb+minimap processing time: 17 
+23:55:58.068 WARN  Total entity physics calculation time: 13 
+23:55:58.068 WARN  Total entity life+thought cycle time: 83 
+23:55:58.068 WARN  Total entity selfie-taking time: 9 
+23:55:58.068 WARN  Total time: 725 
+

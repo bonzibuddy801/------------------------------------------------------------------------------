@@ -1,0 +1,81 @@
+14:20:14.178 WARN  Malformed command packet. Kicking. 1 warning. 
+14:20:24.017 WARN  Malformed command packet. Kicking. 1 warning. 
+14:20:24.300 WARN  Malformed command packet. Kicking. 2 warnings. 
+14:20:24.432 WARN  Malformed command packet. Kicking. 3 warnings. 
+21:02:11.781 ERROR Egg 
+21:02:11.783 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:300:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5050:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5045:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5110:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:02:11.783 ERROR Egg 
+21:02:11.783 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:300:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5050:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5045:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5110:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:05:38.410 ERROR Egg 
+21:05:38.411 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:300:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5050:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5045:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5110:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:05:45.641 ERROR Egg 
+21:05:45.641 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:300:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5050:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5045:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5110:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:05:51.257 ERROR Egg 
+21:05:51.257 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:300:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5050:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5045:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5110:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:05:52.058 ERROR Egg 
+21:05:52.058 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:300:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5050:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5045:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5110:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+21:05:52.661 ERROR Egg 
+21:05:52.661 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:300:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5050:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5045:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5110:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 

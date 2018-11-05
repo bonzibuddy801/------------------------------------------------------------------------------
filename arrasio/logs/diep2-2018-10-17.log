@@ -1,0 +1,54 @@
+13:10:48.528 WARN  Malformed command packet. Kicking. 1 warning. 
+13:12:01.789 WARN  ~~ LOOPS: 11. ENTITY #: 262//96. VIEW #: 1. BACKLOGGED :: 168.818%! ~~ 
+13:12:01.789 WARN  Total activation time: 17 
+13:12:01.789 WARN  Total collision time: 9 
+13:12:01.789 WARN  Total cycle time: 593 
+13:12:01.789 WARN  Total player update time: 7 
+13:12:01.789 WARN  Total lb+minimap processing time: 22 
+13:12:01.789 WARN  Total entity physics calculation time: 41 
+13:12:01.789 WARN  Total entity life+thought cycle time: 205 
+13:12:01.789 WARN  Total entity selfie-taking time: 87 
+13:12:01.789 WARN  Total time: 981 
+13:16:28.142 WARN  ~~ LOOPS: 7. ENTITY #: 340//150. VIEW #: 1. BACKLOGGED :: 295.286%! ~~ 
+13:16:28.142 WARN  Total activation time: 70 
+13:16:28.142 WARN  Total collision time: 22 
+13:16:28.142 WARN  Total cycle time: 597 
+13:16:28.142 WARN  Total player update time: 155 
+13:16:28.142 WARN  Total lb+minimap processing time: 27 
+13:16:28.142 WARN  Total entity physics calculation time: 123 
+13:16:28.142 WARN  Total entity life+thought cycle time: 261 
+13:16:28.142 WARN  Total entity selfie-taking time: 31 
+13:16:28.142 WARN  Total time: 1286 
+13:16:29.150 WARN  ~~ LOOPS: 11. ENTITY #: 318//136. VIEW #: 1. BACKLOGGED :: 124.909%! ~~ 
+13:16:29.150 WARN  Total activation time: 29 
+13:16:29.150 WARN  Total collision time: 53 
+13:16:29.150 WARN  Total cycle time: 376 
+13:16:29.150 WARN  Total player update time: 107 
+13:16:29.151 WARN  Total lb+minimap processing time: 7 
+13:16:29.151 WARN  Total entity physics calculation time: 22 
+13:16:29.151 WARN  Total entity life+thought cycle time: 167 
+13:16:29.158 WARN  Total entity selfie-taking time: 47 
+13:16:29.158 WARN  Total time: 808 
+18:23:39.473 WARN  Non-binary packet. Kicking. 1 warning. 
+18:32:35.868 WARN  ~~ LOOPS: 13. ENTITY #: 208//75. VIEW #: 1. BACKLOGGED :: 102.231%! ~~ 
+18:32:35.868 WARN  Total activation time: 33 
+18:32:35.869 WARN  Total collision time: 294 
+18:32:35.869 WARN  Total cycle time: 116 
+18:32:35.869 WARN  Total player update time: 14 
+18:32:35.870 WARN  Total lb+minimap processing time: 3 
+18:32:35.871 WARN  Total entity physics calculation time: 10 
+18:32:35.871 WARN  Total entity life+thought cycle time: 35 
+18:32:35.871 WARN  Total entity selfie-taking time: 47 
+18:32:35.872 WARN  Total time: 552 
+18:33:04.994 WARN  ~~ LOOPS: 13. ENTITY #: 202//74. VIEW #: 1. BACKLOGGED :: 126.462%! ~~ 
+18:33:04.994 WARN  Total activation time: 20 
+18:33:04.994 WARN  Total collision time: 360 
+18:33:04.995 WARN  Total cycle time: 168 
+18:33:04.995 WARN  Total player update time: 34 
+18:33:04.995 WARN  Total lb+minimap processing time: 1 
+18:33:04.995 WARN  Total entity physics calculation time: 11 
+18:33:04.996 WARN  Total entity life+thought cycle time: 125 
+18:33:04.996 WARN  Total entity selfie-taking time: 7 
+18:33:04.996 WARN  Total time: 726 
+22:39:04.188 WARN  Non-binary packet. Kicking. 1 warning. 
+

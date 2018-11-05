@@ -1,0 +1,131 @@
+17:10:47.951 WARN  ~~ LOOPS: 12. ENTITY #: 338//58. VIEW #: 1. BACKLOGGED :: 162.250%! ~~ 
+17:10:47.951 WARN  Total activation time: 92 
+17:10:47.951 WARN  Total collision time: 21 
+17:10:47.956 WARN  Total cycle time: 535 
+17:10:47.956 WARN  Total player update time: 65 
+17:10:47.956 WARN  Total lb+minimap processing time: 180 
+17:10:47.956 WARN  Total entity physics calculation time: 56 
+17:10:47.956 WARN  Total entity life+thought cycle time: 190 
+17:10:47.956 WARN  Total entity selfie-taking time: 4 
+17:10:47.956 WARN  Total time: 1143 
+17:10:49.164 WARN  ~~ LOOPS: 3. ENTITY #: 334//60. VIEW #: 1. BACKLOGGED :: 554.000%! ~~ 
+17:10:49.164 WARN  Total activation time: 66 
+17:10:49.164 WARN  Total collision time: 17 
+17:10:49.164 WARN  Total cycle time: 451 
+17:10:49.165 WARN  Total player update time: 65 
+17:10:49.165 WARN  Total lb+minimap processing time: 197 
+17:10:49.165 WARN  Total entity physics calculation time: 17 
+17:10:49.165 WARN  Total entity life+thought cycle time: 224 
+17:10:49.165 WARN  Total entity selfie-taking time: 57 
+17:10:49.165 WARN  Total time: 1094 
+17:20:48.950 WARN  ~~ LOOPS: 15. ENTITY #: 314//46. VIEW #: 2. BACKLOGGED :: 100.600%! ~~ 
+17:20:48.951 WARN  Total activation time: 26 
+17:20:48.951 WARN  Total collision time: 24 
+17:20:48.952 WARN  Total cycle time: 453 
+17:20:48.952 WARN  Total player update time: 54 
+17:20:48.952 WARN  Total lb+minimap processing time: 61 
+17:20:48.953 WARN  Total entity physics calculation time: 114 
+17:20:48.953 WARN  Total entity life+thought cycle time: 111 
+17:20:48.954 WARN  Total entity selfie-taking time: 7 
+17:20:48.954 WARN  Total time: 850 
+17:22:18.905 WARN  ~~ LOOPS: 13. ENTITY #: 308//53. VIEW #: 2. BACKLOGGED :: 128.077%! ~~ 
+17:22:18.905 WARN  Total activation time: 48 
+17:22:18.905 WARN  Total collision time: 3 
+17:22:18.905 WARN  Total cycle time: 504 
+17:22:18.905 WARN  Total player update time: 35 
+17:22:18.906 WARN  Total lb+minimap processing time: 124 
+17:22:18.906 WARN  Total entity physics calculation time: 144 
+17:22:18.906 WARN  Total entity life+thought cycle time: 251 
+17:22:18.906 WARN  Total entity selfie-taking time: 27 
+17:22:18.906 WARN  Total time: 1136 
+17:22:39.600 ERROR Egg 
+17:22:39.610 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:344:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5106:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5101:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5166:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+17:23:47.809 WARN  ~~ LOOPS: 12. ENTITY #: 375//101. VIEW #: 2. BACKLOGGED :: 123.250%! ~~ 
+17:23:47.809 WARN  Total activation time: 93 
+17:23:47.810 WARN  Total collision time: 22 
+17:23:47.810 WARN  Total cycle time: 378 
+17:23:47.810 WARN  Total player update time: 136 
+17:23:47.810 WARN  Total lb+minimap processing time: 55 
+17:23:47.810 WARN  Total entity physics calculation time: 75 
+17:23:47.811 WARN  Total entity life+thought cycle time: 118 
+17:23:47.811 WARN  Total entity selfie-taking time: 39 
+17:23:47.811 WARN  Total time: 916 
+17:39:49.142 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at Entity.define (/app/arrasio/src/server/server.js:1931:17)
+    at Entity.define (/app/arrasio/src/server/server.js:1933:22)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3022:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3052:7)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10) 
+17:39:49.143 ERROR illminion 
+17:39:49.144 ERROR {"PARENT":[null],"AI":{"BLIND":true,"FARMER":true},"INDEPENDENT":true,"index":37} 
+17:40:06.801 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at Entity.define (/app/arrasio/src/server/server.js:1931:17)
+    at Entity.define (/app/arrasio/src/server/server.js:1933:22)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3022:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3052:7)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10) 
+17:40:06.801 ERROR illminion 
+17:40:06.803 ERROR {"PARENT":[null],"AI":{"BLIND":true,"FARMER":true},"INDEPENDENT":true,"index":37} 
+17:40:06.913 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at setNatural (/app/arrasio/src/server/server.js:1328:26)
+    at setNatural (/app/arrasio/src/server/server.js:1330:25)
+    at Array.forEach (<anonymous>)
+    at new Gun (/app/arrasio/src/server/server.js:1327:30)
+    at set.GUNS.forEach (/app/arrasio/src/server/server.js:2119:30)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/app/arrasio/src/server/server.js:2118:22)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3022:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3052:7)
+    at Module._compile (module.js:652:30) 
+17:40:06.913 ERROR basicf 
+17:40:06.914 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":57,"mockup":{"body":{"type":7,"id":57,"index":57,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Illusionist","INVISIBLE":[0.08,0.03],"GUNS":[{"POSITION":[30,8,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":0,"shudder":0.25,"size":3,"health":1,"damage":0.75,"pen":1,"speed":7,"maxSpeed":1,"range":100,"density":1,"spray":15,"resist":3},"TYPE":{"PARENT":[null],"AI":{"BLIND":true,"FARMER":true},"INDEPENDENT":true,"index":37},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":5,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}},{"POSITION":[20.5,19.5,1,0,0,0,0]}],"index":103} 
+17:40:50.602 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at Entity.define (/app/arrasio/src/server/server.js:1931:17)
+    at Entity.define (/app/arrasio/src/server/server.js:1933:22)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3022:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3052:7)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10) 
+17:40:50.602 ERROR illminion 
+17:40:50.604 ERROR {"PARENT":[null],"AI":{"BLIND":true,"FARMER":true},"INDEPENDENT":true,"index":37} 
+17:42:24.722 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at Entity.define (/app/arrasio/src/server/server.js:1931:17)
+    at Entity.define (/app/arrasio/src/server/server.js:1933:22)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3022:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3052:7)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10) 
+17:42:24.722 ERROR illinion 
+17:42:24.724 ERROR {"PARENT":[null],"AI":{"BLIND":true,"FARMER":true},"INDEPENDENT":true,"index":37} 

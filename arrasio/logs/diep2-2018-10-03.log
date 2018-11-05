@@ -1,0 +1,511 @@
+13:55:25.381 WARN  ~~ LOOPS: 9. ENTITY #: 274//112. VIEW #: 1. BACKLOGGED :: 225.000%! ~~ 
+13:55:25.381 WARN  Total activation time: 87 
+13:55:25.381 WARN  Total collision time: 8 
+13:55:25.381 WARN  Total cycle time: 580 
+13:55:25.382 WARN  Total player update time: 199 
+13:55:25.418 WARN  Total lb+minimap processing time: 36 
+13:55:25.418 WARN  Total entity physics calculation time: 59 
+13:55:25.418 WARN  Total entity life+thought cycle time: 111 
+13:55:25.418 WARN  Total entity selfie-taking time: 73 
+13:55:25.419 WARN  Total time: 1153 
+13:55:26.604 WARN  ~~ LOOPS: 5. ENTITY #: 275//110. VIEW #: 1. BACKLOGGED :: 441.600%! ~~ 
+13:55:26.604 WARN  Total activation time: 25 
+13:55:26.604 WARN  Total collision time: 33 
+13:55:26.604 WARN  Total cycle time: 678 
+13:55:26.604 WARN  Total player update time: 190 
+13:55:26.604 WARN  Total lb+minimap processing time: 153 
+13:55:26.604 WARN  Total entity physics calculation time: 2 
+13:55:26.604 WARN  Total entity life+thought cycle time: 350 
+13:55:26.604 WARN  Total entity selfie-taking time: 266 
+13:55:26.604 WARN  Total time: 1697 
+13:55:55.981 WARN  ~~ LOOPS: 8. ENTITY #: 283//101. VIEW #: 1. BACKLOGGED :: 214.875%! ~~ 
+13:55:55.981 WARN  Total activation time: 45 
+13:55:55.982 WARN  Total collision time: 27 
+13:55:55.982 WARN  Total cycle time: 501 
+13:55:55.983 WARN  Total player update time: 218 
+13:55:55.983 WARN  Total lb+minimap processing time: 18 
+13:55:55.983 WARN  Total entity physics calculation time: 38 
+13:55:55.984 WARN  Total entity life+thought cycle time: 146 
+13:55:55.984 WARN  Total entity selfie-taking time: 29 
+13:55:55.984 WARN  Total time: 1022 
+13:56:54.641 WARN  ~~ LOOPS: 11. ENTITY #: 315//157. VIEW #: 2. BACKLOGGED :: 186.545%! ~~ 
+13:56:54.641 WARN  Total activation time: 55 
+13:56:54.641 WARN  Total collision time: 274 
+13:56:54.642 WARN  Total cycle time: 355 
+13:56:54.642 WARN  Total player update time: 131 
+13:56:54.642 WARN  Total lb+minimap processing time: 16 
+13:56:54.642 WARN  Total entity physics calculation time: 16 
+13:56:54.642 WARN  Total entity life+thought cycle time: 129 
+13:56:54.642 WARN  Total entity selfie-taking time: 31 
+13:56:54.642 WARN  Total time: 1007 
+13:57:08.047 WARN  ~~ LOOPS: 13. ENTITY #: 365//198. VIEW #: 2. BACKLOGGED :: 126.231%! ~~ 
+13:57:08.047 WARN  Total activation time: 31 
+13:57:08.051 WARN  Total collision time: 54 
+13:57:08.051 WARN  Total cycle time: 462 
+13:57:08.051 WARN  Total player update time: 78 
+13:57:08.051 WARN  Total lb+minimap processing time: 55 
+13:57:08.051 WARN  Total entity physics calculation time: 26 
+13:57:08.051 WARN  Total entity life+thought cycle time: 284 
+13:57:08.051 WARN  Total entity selfie-taking time: 31 
+13:57:08.051 WARN  Total time: 1021 
+13:57:12.190 WARN  ~~ LOOPS: 12. ENTITY #: 390//188. VIEW #: 2. BACKLOGGED :: 157.500%! ~~ 
+13:57:12.190 WARN  Total activation time: 36 
+13:57:12.190 WARN  Total collision time: 20 
+13:57:12.190 WARN  Total cycle time: 574 
+13:57:12.190 WARN  Total player update time: 99 
+13:57:12.190 WARN  Total lb+minimap processing time: 44 
+13:57:12.190 WARN  Total entity physics calculation time: 33 
+13:57:12.190 WARN  Total entity life+thought cycle time: 401 
+13:57:12.190 WARN  Total entity selfie-taking time: 17 
+13:57:12.190 WARN  Total time: 1224 
+13:57:16.372 WARN  ~~ LOOPS: 9. ENTITY #: 399//203. VIEW #: 2. BACKLOGGED :: 198.333%! ~~ 
+13:57:16.372 WARN  Total activation time: 29 
+13:57:16.373 WARN  Total collision time: 17 
+13:57:16.373 WARN  Total cycle time: 549 
+13:57:16.373 WARN  Total player update time: 71 
+13:57:16.373 WARN  Total lb+minimap processing time: 60 
+13:57:16.373 WARN  Total entity physics calculation time: 63 
+13:57:16.373 WARN  Total entity life+thought cycle time: 266 
+13:57:16.373 WARN  Total entity selfie-taking time: 21 
+13:57:16.374 WARN  Total time: 1076 
+13:57:17.419 WARN  ~~ LOOPS: 13. ENTITY #: 388//202. VIEW #: 2. BACKLOGGED :: 128.538%! ~~ 
+13:57:17.419 WARN  Total activation time: 58 
+13:57:17.419 WARN  Total collision time: 90 
+13:57:17.419 WARN  Total cycle time: 408 
+13:57:17.419 WARN  Total player update time: 138 
+13:57:17.419 WARN  Total lb+minimap processing time: 18 
+13:57:17.419 WARN  Total entity physics calculation time: 26 
+13:57:17.419 WARN  Total entity life+thought cycle time: 197 
+13:57:17.430 WARN  Total entity selfie-taking time: 44 
+13:57:17.430 WARN  Total time: 979 
+13:57:18.443 WARN  ~~ LOOPS: 14. ENTITY #: 370//195. VIEW #: 2. BACKLOGGED :: 102.643%! ~~ 
+13:57:18.443 WARN  Total activation time: 46 
+13:57:18.443 WARN  Total collision time: 48 
+13:57:18.443 WARN  Total cycle time: 385 
+13:57:18.443 WARN  Total player update time: 33 
+13:57:18.443 WARN  Total lb+minimap processing time: 22 
+13:57:18.443 WARN  Total entity physics calculation time: 23 
+13:57:18.443 WARN  Total entity life+thought cycle time: 138 
+13:57:18.443 WARN  Total entity selfie-taking time: 42 
+13:57:18.444 WARN  Total time: 737 
+13:57:54.987 WARN  ~~ LOOPS: 12. ENTITY #: 355//85. VIEW #: 2. BACKLOGGED :: 133.500%! ~~ 
+13:57:54.987 WARN  Total activation time: 35 
+13:57:54.987 WARN  Total collision time: 21 
+13:57:54.987 WARN  Total cycle time: 478 
+13:57:54.987 WARN  Total player update time: 34 
+13:57:54.987 WARN  Total lb+minimap processing time: 31 
+13:57:54.987 WARN  Total entity physics calculation time: 49 
+13:57:54.987 WARN  Total entity life+thought cycle time: 156 
+13:57:54.987 WARN  Total entity selfie-taking time: 178 
+13:57:54.987 WARN  Total time: 982 
+13:58:55.014 WARN  ~~ LOOPS: 12. ENTITY #: 449//197. VIEW #: 2. BACKLOGGED :: 149.250%! ~~ 
+13:58:55.014 WARN  Total activation time: 68 
+13:58:55.014 WARN  Total collision time: 72 
+13:58:55.014 WARN  Total cycle time: 457 
+13:58:55.014 WARN  Total player update time: 57 
+13:58:55.015 WARN  Total lb+minimap processing time: 19 
+13:58:55.015 WARN  Total entity physics calculation time: 20 
+13:58:55.015 WARN  Total entity life+thought cycle time: 208 
+13:58:55.015 WARN  Total entity selfie-taking time: 25 
+13:58:55.015 WARN  Total time: 926 
+14:00:25.691 WARN  ~~ LOOPS: 14. ENTITY #: 339//23. VIEW #: 2. BACKLOGGED :: 109.071%! ~~ 
+14:00:25.691 WARN  Total activation time: 48 
+14:00:25.691 WARN  Total collision time: 0 
+14:00:25.691 WARN  Total cycle time: 461 
+14:00:25.691 WARN  Total player update time: 113 
+14:00:25.691 WARN  Total lb+minimap processing time: 92 
+14:00:25.691 WARN  Total entity physics calculation time: 94 
+14:00:25.691 WARN  Total entity life+thought cycle time: 94 
+14:00:25.691 WARN  Total entity selfie-taking time: 16 
+14:00:25.691 WARN  Total time: 918 
+14:01:07.620 WARN  ~~ LOOPS: 12. ENTITY #: 346//178. VIEW #: 2. BACKLOGGED :: 152.250%! ~~ 
+14:01:07.620 WARN  Total activation time: 43 
+14:01:07.620 WARN  Total collision time: 29 
+14:01:07.620 WARN  Total cycle time: 532 
+14:01:07.620 WARN  Total player update time: 134 
+14:01:07.620 WARN  Total lb+minimap processing time: 52 
+14:01:07.620 WARN  Total entity physics calculation time: 37 
+14:01:07.620 WARN  Total entity life+thought cycle time: 219 
+14:01:07.620 WARN  Total entity selfie-taking time: 51 
+14:01:07.620 WARN  Total time: 1097 
+14:01:08.680 WARN  ~~ LOOPS: 9. ENTITY #: 346//176. VIEW #: 2. BACKLOGGED :: 173.333%! ~~ 
+14:01:08.680 WARN  Total activation time: 99 
+14:01:08.680 WARN  Total collision time: 15 
+14:01:08.680 WARN  Total cycle time: 402 
+14:01:08.680 WARN  Total player update time: 82 
+14:01:08.680 WARN  Total lb+minimap processing time: 54 
+14:01:08.680 WARN  Total entity physics calculation time: 17 
+14:01:08.680 WARN  Total entity life+thought cycle time: 159 
+14:01:08.680 WARN  Total entity selfie-taking time: 35 
+14:01:08.680 WARN  Total time: 863 
+14:01:17.022 WARN  ~~ LOOPS: 12. ENTITY #: 343//203. VIEW #: 2. BACKLOGGED :: 150.250%! ~~ 
+14:01:17.022 WARN  Total activation time: 66 
+14:01:17.023 WARN  Total collision time: 23 
+14:01:17.023 WARN  Total cycle time: 512 
+14:01:17.023 WARN  Total player update time: 82 
+14:01:17.023 WARN  Total lb+minimap processing time: 68 
+14:01:17.023 WARN  Total entity physics calculation time: 23 
+14:01:17.023 WARN  Total entity life+thought cycle time: 258 
+14:01:17.023 WARN  Total entity selfie-taking time: 34 
+14:01:17.023 WARN  Total time: 1066 
+14:01:18.074 WARN  ~~ LOOPS: 10. ENTITY #: 343//203. VIEW #: 2. BACKLOGGED :: 173.400%! ~~ 
+14:01:18.074 WARN  Total activation time: 55 
+14:01:18.074 WARN  Total collision time: 54 
+14:01:18.075 WARN  Total cycle time: 469 
+14:01:18.075 WARN  Total player update time: 154 
+14:01:18.075 WARN  Total lb+minimap processing time: 19 
+14:01:18.075 WARN  Total entity physics calculation time: 50 
+14:01:18.076 WARN  Total entity life+thought cycle time: 105 
+14:01:18.076 WARN  Total entity selfie-taking time: 45 
+14:01:18.076 WARN  Total time: 951 
+14:01:19.118 WARN  ~~ LOOPS: 12. ENTITY #: 343//216. VIEW #: 2. BACKLOGGED :: 147.000%! ~~ 
+14:01:19.118 WARN  Total activation time: 54 
+14:01:19.118 WARN  Total collision time: 25 
+14:01:19.118 WARN  Total cycle time: 509 
+14:01:19.118 WARN  Total player update time: 67 
+14:01:19.118 WARN  Total lb+minimap processing time: 18 
+14:01:19.118 WARN  Total entity physics calculation time: 84 
+14:01:19.118 WARN  Total entity life+thought cycle time: 163 
+14:01:19.118 WARN  Total entity selfie-taking time: 50 
+14:01:19.118 WARN  Total time: 970 
+14:01:20.154 WARN  ~~ LOOPS: 14. ENTITY #: 347//218. VIEW #: 2. BACKLOGGED :: 115.500%! ~~ 
+14:01:20.155 WARN  Total activation time: 50 
+14:01:20.155 WARN  Total collision time: 44 
+14:01:20.155 WARN  Total cycle time: 445 
+14:01:20.155 WARN  Total player update time: 44 
+14:01:20.155 WARN  Total lb+minimap processing time: 21 
+14:01:20.155 WARN  Total entity physics calculation time: 59 
+14:01:20.155 WARN  Total entity life+thought cycle time: 140 
+14:01:20.155 WARN  Total entity selfie-taking time: 88 
+14:01:20.155 WARN  Total time: 891 
+14:01:21.317 WARN  ~~ LOOPS: 8. ENTITY #: 340//230. VIEW #: 2. BACKLOGGED :: 280.500%! ~~ 
+14:01:21.318 WARN  Total activation time: 68 
+14:01:21.318 WARN  Total collision time: 61 
+14:01:21.342 WARN  Total cycle time: 619 
+14:01:21.342 WARN  Total player update time: 56 
+14:01:21.342 WARN  Total lb+minimap processing time: 88 
+14:01:21.342 WARN  Total entity physics calculation time: 28 
+14:01:21.345 WARN  Total entity life+thought cycle time: 192 
+14:01:21.345 WARN  Total entity selfie-taking time: 30 
+14:01:21.346 WARN  Total time: 1142 
+14:01:22.357 WARN  ~~ LOOPS: 6. ENTITY #: 339//223. VIEW #: 2. BACKLOGGED :: 285.500%! ~~ 
+14:01:22.357 WARN  Total activation time: 113 
+14:01:22.357 WARN  Total collision time: 27 
+14:01:22.357 WARN  Total cycle time: 431 
+14:01:22.357 WARN  Total player update time: 111 
+14:01:22.357 WARN  Total lb+minimap processing time: 92 
+14:01:22.357 WARN  Total entity physics calculation time: 31 
+14:01:22.358 WARN  Total entity life+thought cycle time: 169 
+14:01:22.358 WARN  Total entity selfie-taking time: 95 
+14:01:22.358 WARN  Total time: 1069 
+14:01:23.432 WARN  ~~ LOOPS: 10. ENTITY #: 342//216. VIEW #: 2. BACKLOGGED :: 180.900%! ~~ 
+14:01:23.432 WARN  Total activation time: 46 
+14:01:23.432 WARN  Total collision time: 43 
+14:01:23.432 WARN  Total cycle time: 513 
+14:01:23.432 WARN  Total player update time: 79 
+14:01:23.432 WARN  Total lb+minimap processing time: 58 
+14:01:23.432 WARN  Total entity physics calculation time: 41 
+14:01:23.432 WARN  Total entity life+thought cycle time: 159 
+14:01:23.432 WARN  Total entity selfie-taking time: 58 
+14:01:23.432 WARN  Total time: 997 
+14:01:24.875 WARN  ~~ LOOPS: 3. ENTITY #: 343//217. VIEW #: 2. BACKLOGGED :: 856.000%! ~~ 
+14:01:24.875 WARN  Total activation time: 86 
+14:01:24.875 WARN  Total collision time: 45 
+14:01:24.875 WARN  Total cycle time: 725 
+14:01:24.875 WARN  Total player update time: 177 
+14:01:24.996 WARN  Total lb+minimap processing time: 121 
+14:01:24.996 WARN  Total entity physics calculation time: 169 
+14:01:24.996 WARN  Total entity life+thought cycle time: 249 
+14:01:24.996 WARN  Total entity selfie-taking time: 3 
+14:01:24.996 WARN  Total time: 1575 
+14:01:26.219 WARN  ~~ LOOPS: 2. ENTITY #: 345//220. VIEW #: 2. BACKLOGGED :: 994.500%! ~~ 
+14:01:26.219 WARN  Total activation time: 9 
+14:01:26.219 WARN  Total collision time: 53 
+14:01:26.219 WARN  Total cycle time: 601 
+14:01:26.219 WARN  Total player update time: 14 
+14:01:26.219 WARN  Total lb+minimap processing time: 202 
+14:01:26.219 WARN  Total entity physics calculation time: 2 
+14:01:26.219 WARN  Total entity life+thought cycle time: 191 
+14:01:26.219 WARN  Total entity selfie-taking time: 4 
+14:01:26.219 WARN  Total time: 1076 
+14:01:27.355 WARN  ~~ LOOPS: 2. ENTITY #: 345//226. VIEW #: 2. BACKLOGGED :: 855.000%! ~~ 
+14:01:27.355 WARN  Total activation time: 29 
+14:01:27.355 WARN  Total collision time: 91 
+14:01:27.355 WARN  Total cycle time: 450 
+14:01:27.355 WARN  Total player update time: 119 
+14:01:27.355 WARN  Total lb+minimap processing time: 97 
+14:01:27.355 WARN  Total entity physics calculation time: 94 
+14:01:27.487 WARN  Total entity life+thought cycle time: 138 
+14:01:27.487 WARN  Total entity selfie-taking time: 38 
+14:01:27.487 WARN  Total time: 1056 
+14:01:28.786 WARN  ~~ LOOPS: 3. ENTITY #: 343//215. VIEW #: 2. BACKLOGGED :: 854.000%! ~~ 
+14:01:28.787 WARN  Total activation time: 158 
+14:01:28.787 WARN  Total collision time: 4 
+14:01:28.787 WARN  Total cycle time: 692 
+14:01:28.787 WARN  Total player update time: 58 
+14:01:28.787 WARN  Total lb+minimap processing time: 108 
+14:01:28.787 WARN  Total entity physics calculation time: 62 
+14:01:28.787 WARN  Total entity life+thought cycle time: 371 
+14:01:28.787 WARN  Total entity selfie-taking time: 63 
+14:01:28.787 WARN  Total time: 1516 
+14:01:30.352 WARN  ~~ LOOPS: 4. ENTITY #: 343//219. VIEW #: 2. BACKLOGGED :: 771.000%! ~~ 
+14:01:30.352 WARN  Total activation time: 192 
+14:01:30.352 WARN  Total collision time: 68 
+14:01:30.352 WARN  Total cycle time: 768 
+14:01:30.352 WARN  Total player update time: 172 
+14:01:30.352 WARN  Total lb+minimap processing time: 138 
+14:01:30.353 WARN  Total entity physics calculation time: 72 
+14:01:30.353 WARN  Total entity life+thought cycle time: 251 
+14:01:30.353 WARN  Total entity selfie-taking time: 151 
+14:01:30.353 WARN  Total time: 1812 
+14:01:31.390 WARN  ~~ LOOPS: 5. ENTITY #: 338//220. VIEW #: 2. BACKLOGGED :: 224.400%! ~~ 
+14:01:31.390 WARN  Total activation time: 33 
+14:01:31.390 WARN  Total collision time: 46 
+14:01:31.390 WARN  Total cycle time: 295 
+14:01:31.390 WARN  Total player update time: 160 
+14:01:31.390 WARN  Total lb+minimap processing time: 261 
+14:01:31.390 WARN  Total entity physics calculation time: 17 
+14:01:31.391 WARN  Total entity life+thought cycle time: 192 
+14:01:31.391 WARN  Total entity selfie-taking time: 5 
+14:01:31.391 WARN  Total time: 1009 
+14:01:32.444 WARN  ~~ LOOPS: 5. ENTITY #: 338//221. VIEW #: 2. BACKLOGGED :: 423.000%! ~~ 
+14:01:32.444 WARN  Total activation time: 45 
+14:01:32.444 WARN  Total collision time: 84 
+14:01:32.444 WARN  Total cycle time: 576 
+14:01:32.444 WARN  Total player update time: 140 
+14:01:32.445 WARN  Total lb+minimap processing time: 107 
+14:01:32.445 WARN  Total entity physics calculation time: 4 
+14:01:32.445 WARN  Total entity life+thought cycle time: 251 
+14:01:32.445 WARN  Total entity selfie-taking time: 194 
+14:01:32.445 WARN  Total time: 1401 
+14:01:33.567 WARN  ~~ LOOPS: 8. ENTITY #: 341//224. VIEW #: 2. BACKLOGGED :: 184.125%! ~~ 
+14:01:33.567 WARN  Total activation time: 58 
+14:01:33.568 WARN  Total collision time: 16 
+14:01:33.568 WARN  Total cycle time: 417 
+14:01:33.568 WARN  Total player update time: 44 
+14:01:33.568 WARN  Total lb+minimap processing time: 77 
+14:01:33.568 WARN  Total entity physics calculation time: 23 
+14:01:33.568 WARN  Total entity life+thought cycle time: 270 
+14:01:33.568 WARN  Total entity selfie-taking time: 24 
+14:01:33.568 WARN  Total time: 929 
+14:01:34.581 WARN  ~~ LOOPS: 13. ENTITY #: 336//237. VIEW #: 2. BACKLOGGED :: 112.846%! ~~ 
+14:01:34.581 WARN  Total activation time: 36 
+14:01:34.581 WARN  Total collision time: 20 
+14:01:34.581 WARN  Total cycle time: 433 
+14:01:34.581 WARN  Total player update time: 82 
+14:01:34.581 WARN  Total lb+minimap processing time: 74 
+14:01:34.581 WARN  Total entity physics calculation time: 57 
+14:01:34.581 WARN  Total entity life+thought cycle time: 159 
+14:01:34.582 WARN  Total entity selfie-taking time: 82 
+14:01:34.582 WARN  Total time: 943 
+14:01:35.665 WARN  ~~ LOOPS: 13. ENTITY #: 330//253. VIEW #: 2. BACKLOGGED :: 132.692%! ~~ 
+14:01:35.665 WARN  Total activation time: 47 
+14:01:35.665 WARN  Total collision time: 59 
+14:01:35.665 WARN  Total cycle time: 469 
+14:01:35.665 WARN  Total player update time: 44 
+14:01:35.665 WARN  Total lb+minimap processing time: 25 
+14:01:35.666 WARN  Total entity physics calculation time: 36 
+14:01:35.666 WARN  Total entity life+thought cycle time: 178 
+14:01:35.666 WARN  Total entity selfie-taking time: 64 
+14:01:35.666 WARN  Total time: 922 
+14:01:36.702 WARN  ~~ LOOPS: 13. ENTITY #: 331//259. VIEW #: 2. BACKLOGGED :: 119.077%! ~~ 
+14:01:36.702 WARN  Total activation time: 49 
+14:01:36.702 WARN  Total collision time: 30 
+14:01:36.702 WARN  Total cycle time: 436 
+14:01:36.702 WARN  Total player update time: 96 
+14:01:36.702 WARN  Total lb+minimap processing time: 15 
+14:01:36.702 WARN  Total entity physics calculation time: 20 
+14:01:36.702 WARN  Total entity life+thought cycle time: 259 
+14:01:36.703 WARN  Total entity selfie-taking time: 56 
+14:01:36.703 WARN  Total time: 961 
+14:01:37.829 WARN  ~~ LOOPS: 10. ENTITY #: 332//246. VIEW #: 2. BACKLOGGED :: 207.300%! ~~ 
+14:01:37.829 WARN  Total activation time: 76 
+14:01:37.829 WARN  Total collision time: 36 
+14:01:37.829 WARN  Total cycle time: 572 
+14:01:37.829 WARN  Total player update time: 104 
+14:01:37.829 WARN  Total lb+minimap processing time: 90 
+14:01:37.829 WARN  Total entity physics calculation time: 101 
+14:01:37.829 WARN  Total entity life+thought cycle time: 222 
+14:01:37.829 WARN  Total entity selfie-taking time: 94 
+14:01:37.829 WARN  Total time: 1295 
+14:01:38.839 WARN  ~~ LOOPS: 9. ENTITY #: 332//255. VIEW #: 2. BACKLOGGED :: 192.333%! ~~ 
+14:01:38.839 WARN  Total activation time: 39 
+14:01:38.839 WARN  Total collision time: 62 
+14:01:38.839 WARN  Total cycle time: 476 
+14:01:38.839 WARN  Total player update time: 77 
+14:01:38.839 WARN  Total lb+minimap processing time: 10 
+14:01:38.839 WARN  Total entity physics calculation time: 36 
+14:01:38.839 WARN  Total entity life+thought cycle time: 210 
+14:01:38.839 WARN  Total entity selfie-taking time: 54 
+14:01:38.840 WARN  Total time: 964 
+14:01:39.854 WARN  ~~ LOOPS: 12. ENTITY #: 329//250. VIEW #: 2. BACKLOGGED :: 139.500%! ~~ 
+14:01:39.854 WARN  Total activation time: 69 
+14:01:39.855 WARN  Total collision time: 57 
+14:01:39.855 WARN  Total cycle time: 432 
+14:01:39.855 WARN  Total player update time: 126 
+14:01:39.855 WARN  Total lb+minimap processing time: 26 
+14:01:39.855 WARN  Total entity physics calculation time: 83 
+14:01:39.855 WARN  Total entity life+thought cycle time: 165 
+14:01:39.856 WARN  Total entity selfie-taking time: 51 
+14:01:39.856 WARN  Total time: 1009 
+14:03:54.570 WARN  ~~ LOOPS: 10. ENTITY #: 480//201. VIEW #: 2. BACKLOGGED :: 175.800%! ~~ 
+14:03:54.570 WARN  Total activation time: 92 
+14:03:54.571 WARN  Total collision time: 58 
+14:03:54.571 WARN  Total cycle time: 436 
+14:03:54.571 WARN  Total player update time: 259 
+14:03:54.571 WARN  Total lb+minimap processing time: 12 
+14:03:54.571 WARN  Total entity physics calculation time: 104 
+14:03:54.571 WARN  Total entity life+thought cycle time: 70 
+14:03:54.571 WARN  Total entity selfie-taking time: 57 
+14:03:54.571 WARN  Total time: 1088 
+14:03:56.006 WARN  ~~ LOOPS: 4. ENTITY #: 478//190. VIEW #: 2. BACKLOGGED :: 574.500%! ~~ 
+14:03:56.006 WARN  Total activation time: 156 
+14:03:56.006 WARN  Total collision time: 24 
+14:03:56.006 WARN  Total cycle time: 586 
+14:03:56.006 WARN  Total player update time: 361 
+14:03:56.006 WARN  Total lb+minimap processing time: 160 
+14:03:56.006 WARN  Total entity physics calculation time: 207 
+14:03:56.006 WARN  Total entity life+thought cycle time: 147 
+14:03:56.006 WARN  Total entity selfie-taking time: 98 
+14:03:56.006 WARN  Total time: 1739 
+14:03:57.070 WARN  ~~ LOOPS: 10. ENTITY #: 469//192. VIEW #: 2. BACKLOGGED :: 157.200%! ~~ 
+14:03:57.070 WARN  Total activation time: 114 
+14:03:57.070 WARN  Total collision time: 30 
+14:03:57.070 WARN  Total cycle time: 380 
+14:03:57.070 WARN  Total player update time: 201 
+14:03:57.070 WARN  Total lb+minimap processing time: 17 
+14:03:57.070 WARN  Total entity physics calculation time: 48 
+14:03:57.070 WARN  Total entity life+thought cycle time: 158 
+14:03:57.070 WARN  Total entity selfie-taking time: 31 
+14:03:57.070 WARN  Total time: 979 
+14:03:58.208 WARN  ~~ LOOPS: 10. ENTITY #: 476//181. VIEW #: 2. BACKLOGGED :: 190.800%! ~~ 
+14:03:58.216 WARN  Total activation time: 91 
+14:03:58.216 WARN  Total collision time: 49 
+14:03:58.217 WARN  Total cycle time: 496 
+14:03:58.217 WARN  Total player update time: 90 
+14:03:58.218 WARN  Total lb+minimap processing time: 57 
+14:03:58.234 WARN  Total entity physics calculation time: 60 
+14:03:58.234 WARN  Total entity life+thought cycle time: 197 
+14:03:58.235 WARN  Total entity selfie-taking time: 57 
+14:03:58.235 WARN  Total time: 1097 
+14:03:59.251 WARN  ~~ LOOPS: 11. ENTITY #: 485//187. VIEW #: 2. BACKLOGGED :: 159.818%! ~~ 
+14:03:59.251 WARN  Total activation time: 75 
+14:03:59.251 WARN  Total collision time: 9 
+14:03:59.251 WARN  Total cycle time: 502 
+14:03:59.251 WARN  Total player update time: 164 
+14:03:59.251 WARN  Total lb+minimap processing time: 39 
+14:03:59.251 WARN  Total entity physics calculation time: 105 
+14:03:59.251 WARN  Total entity life+thought cycle time: 184 
+14:03:59.272 WARN  Total entity selfie-taking time: 85 
+14:03:59.272 WARN  Total time: 1163 
+14:04:00.475 WARN  ~~ LOOPS: 9. ENTITY #: 489//196. VIEW #: 2. BACKLOGGED :: 238.333%! ~~ 
+14:04:00.475 WARN  Total activation time: 114 
+14:04:00.475 WARN  Total collision time: 60 
+14:04:00.475 WARN  Total cycle time: 541 
+14:04:00.475 WARN  Total player update time: 124 
+14:04:00.475 WARN  Total lb+minimap processing time: 89 
+14:04:00.475 WARN  Total entity physics calculation time: 37 
+14:04:00.475 WARN  Total entity life+thought cycle time: 184 
+14:04:00.475 WARN  Total entity selfie-taking time: 17 
+14:04:00.497 WARN  Total time: 1166 
+14:04:01.517 WARN  ~~ LOOPS: 11. ENTITY #: 486//193. VIEW #: 2. BACKLOGGED :: 107.182%! ~~ 
+14:04:01.517 WARN  Total activation time: 83 
+14:04:01.517 WARN  Total collision time: 49 
+14:04:01.517 WARN  Total cycle time: 261 
+14:04:01.517 WARN  Total player update time: 166 
+14:04:01.517 WARN  Total lb+minimap processing time: 11 
+14:04:01.517 WARN  Total entity physics calculation time: 24 
+14:04:01.518 WARN  Total entity life+thought cycle time: 86 
+14:04:01.518 WARN  Total entity selfie-taking time: 21 
+14:04:01.518 WARN  Total time: 701 
+14:04:55.116 WARN  ~~ LOOPS: 11. ENTITY #: 341//47. VIEW #: 2. BACKLOGGED :: 106.091%! ~~ 
+14:04:55.116 WARN  Total activation time: 63 
+14:04:55.116 WARN  Total collision time: 3 
+14:04:55.116 WARN  Total cycle time: 323 
+14:04:55.116 WARN  Total player update time: 268 
+14:04:55.116 WARN  Total lb+minimap processing time: 14 
+14:04:55.116 WARN  Total entity physics calculation time: 69 
+14:04:55.116 WARN  Total entity life+thought cycle time: 151 
+14:04:55.116 WARN  Total entity selfie-taking time: 2 
+14:04:55.116 WARN  Total time: 893 
+14:05:25.894 WARN  ~~ LOOPS: 14. ENTITY #: 354//70. VIEW #: 2. BACKLOGGED :: 112.500%! ~~ 
+14:05:25.904 WARN  Total activation time: 89 
+14:05:25.905 WARN  Total collision time: 42 
+14:05:25.905 WARN  Total cycle time: 394 
+14:05:25.905 WARN  Total player update time: 128 
+14:05:25.906 WARN  Total lb+minimap processing time: 134 
+14:05:25.906 WARN  Total entity physics calculation time: 86 
+14:05:25.906 WARN  Total entity life+thought cycle time: 134 
+14:05:25.907 WARN  Total entity selfie-taking time: 11 
+14:05:25.923 WARN  Total time: 1018 
+14:09:25.953 WARN  ~~ LOOPS: 14. ENTITY #: 432//208. VIEW #: 2. BACKLOGGED :: 105.429%! ~~ 
+14:09:25.953 WARN  Total activation time: 114 
+14:09:25.954 WARN  Total collision time: 104 
+14:09:25.954 WARN  Total cycle time: 274 
+14:09:25.954 WARN  Total player update time: 39 
+14:09:25.954 WARN  Total lb+minimap processing time: 17 
+14:09:25.955 WARN  Total entity physics calculation time: 33 
+14:09:25.955 WARN  Total entity life+thought cycle time: 46 
+14:09:25.955 WARN  Total entity selfie-taking time: 39 
+14:09:25.956 WARN  Total time: 666 
+14:09:56.017 WARN  ~~ LOOPS: 4. ENTITY #: 376//119. VIEW #: 2. BACKLOGGED :: 303.750%! ~~ 
+14:09:56.018 WARN  Total activation time: 61 
+14:09:56.023 WARN  Total collision time: 194 
+14:09:56.024 WARN  Total cycle time: 150 
+14:09:56.024 WARN  Total player update time: 36 
+14:09:56.024 WARN  Total lb+minimap processing time: 171 
+14:09:56.043 WARN  Total entity physics calculation time: 59 
+14:09:56.044 WARN  Total entity life+thought cycle time: 29 
+14:09:56.044 WARN  Total entity selfie-taking time: 5 
+14:09:56.045 WARN  Total time: 705 
+14:09:57.125 WARN  ~~ LOOPS: 9. ENTITY #: 376//126. VIEW #: 2. BACKLOGGED :: 225.667%! ~~ 
+14:09:57.125 WARN  Total activation time: 114 
+14:09:57.125 WARN  Total collision time: 182 
+14:09:57.125 WARN  Total cycle time: 381 
+14:09:57.125 WARN  Total player update time: 105 
+14:09:57.125 WARN  Total lb+minimap processing time: 55 
+14:09:57.125 WARN  Total entity physics calculation time: 31 
+14:09:57.125 WARN  Total entity life+thought cycle time: 113 
+14:09:57.125 WARN  Total entity selfie-taking time: 38 
+14:09:57.125 WARN  Total time: 1019 
+14:09:58.182 WARN  ~~ LOOPS: 8. ENTITY #: 376//118. VIEW #: 2. BACKLOGGED :: 249.000%! ~~ 
+14:09:58.182 WARN  Total activation time: 86 
+14:09:58.183 WARN  Total collision time: 240 
+14:09:58.196 WARN  Total cycle time: 338 
+14:09:58.212 WARN  Total player update time: 121 
+14:09:58.213 WARN  Total lb+minimap processing time: 36 
+14:09:58.213 WARN  Total entity physics calculation time: 34 
+14:09:58.213 WARN  Total entity life+thought cycle time: 86 
+14:09:58.214 WARN  Total entity selfie-taking time: 103 
+14:09:58.214 WARN  Total time: 1044 
+14:09:59.259 WARN  ~~ LOOPS: 10. ENTITY #: 370//123. VIEW #: 2. BACKLOGGED :: 175.500%! ~~ 
+14:09:59.259 WARN  Total activation time: 39 
+14:09:59.259 WARN  Total collision time: 189 
+14:09:59.259 WARN  Total cycle time: 357 
+14:09:59.259 WARN  Total player update time: 113 
+14:09:59.259 WARN  Total lb+minimap processing time: 95 
+14:09:59.260 WARN  Total entity physics calculation time: 33 
+14:09:59.260 WARN  Total entity life+thought cycle time: 94 
+14:09:59.260 WARN  Total entity selfie-taking time: 16 
+14:09:59.260 WARN  Total time: 936 
+14:10:00.367 WARN  ~~ LOOPS: 10. ENTITY #: 366//109. VIEW #: 2. BACKLOGGED :: 173.100%! ~~ 
+14:10:00.367 WARN  Total activation time: 76 
+14:10:00.368 WARN  Total collision time: 138 
+14:10:00.368 WARN  Total cycle time: 363 
+14:10:00.369 WARN  Total player update time: 84 
+14:10:00.369 WARN  Total lb+minimap processing time: 133 
+14:10:00.369 WARN  Total entity physics calculation time: 13 
+14:10:00.370 WARN  Total entity life+thought cycle time: 110 
+14:10:00.370 WARN  Total entity selfie-taking time: 9 
+14:10:00.371 WARN  Total time: 926 
+14:10:01.419 WARN  ~~ LOOPS: 13. ENTITY #: 360//111. VIEW #: 2. BACKLOGGED :: 122.077%! ~~ 
+14:10:01.419 WARN  Total activation time: 31 
+14:10:01.420 WARN  Total collision time: 122 
+14:10:01.420 WARN  Total cycle time: 376 
+14:10:01.420 WARN  Total player update time: 86 
+14:10:01.420 WARN  Total lb+minimap processing time: 31 
+14:10:01.420 WARN  Total entity physics calculation time: 27 
+14:10:01.421 WARN  Total entity life+thought cycle time: 99 
+14:10:01.421 WARN  Total entity selfie-taking time: 14 
+14:10:01.421 WARN  Total time: 786 
+

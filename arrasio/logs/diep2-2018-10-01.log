@@ -1,0 +1,10 @@
+14:33:41.458 WARN  ~~ LOOPS: 11. ENTITY #: 438//25. VIEW #: 0. BACKLOGGED :: 169.636%! ~~ 
+14:33:41.458 WARN  Total activation time: 307 
+14:33:41.458 WARN  Total collision time: 0 
+14:33:41.458 WARN  Total cycle time: 315 
+14:33:41.458 WARN  Total player update time: 0 
+14:33:41.458 WARN  Total lb+minimap processing time: 104 
+14:33:41.464 WARN  Total entity physics calculation time: 15 
+14:33:41.464 WARN  Total entity life+thought cycle time: 286 
+14:33:41.464 WARN  Total entity selfie-taking time: 4 
+14:33:41.465 WARN  Total time: 1031 

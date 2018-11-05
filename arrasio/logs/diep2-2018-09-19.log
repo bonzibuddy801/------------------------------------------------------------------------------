@@ -1,0 +1,975 @@
+01:09:59.216 ERROR Pentagon 
+01:09:59.218 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/app/arrasio/src/server/server.js:344:42)
+    at entities.map.instance (/app/arrasio/src/server/server.js:5119:34)
+    at Array.map (<anonymous>)
+    at makefood (/app/arrasio/src/server/server.js:5114:29)
+    at Timeout.maintainloop [as _onTimeout] (/app/arrasio/src/server/server.js:5179:9)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5) 
+11:46:09.717 WARN  ~~ LOOPS: 11. ENTITY #: 338//53. VIEW #: 1. BACKLOGGED :: 168.273%! ~~ 
+11:46:09.717 WARN  Total activation time: 5 
+11:46:09.717 WARN  Total collision time: 532 
+11:46:09.717 WARN  Total cycle time: 80 
+11:46:09.717 WARN  Total player update time: 21 
+11:46:09.717 WARN  Total lb+minimap processing time: 4 
+11:46:09.717 WARN  Total entity physics calculation time: 9 
+11:46:09.717 WARN  Total entity life+thought cycle time: 64 
+11:46:09.717 WARN  Total entity selfie-taking time: 1 
+11:46:09.717 WARN  Total time: 716 
+11:46:11.892 WARN  ~~ LOOPS: 4. ENTITY #: 539//94. VIEW #: 1. BACKLOGGED :: 771.750%! ~~ 
+11:46:11.893 WARN  Total activation time: 8 
+11:46:11.893 WARN  Total collision time: 854 
+11:46:11.893 WARN  Total cycle time: 167 
+11:46:11.893 WARN  Total player update time: 21 
+11:46:11.894 WARN  Total lb+minimap processing time: 10 
+11:46:11.894 WARN  Total entity physics calculation time: 2 
+11:46:11.894 WARN  Total entity life+thought cycle time: 157 
+11:46:11.895 WARN  Total entity selfie-taking time: 2 
+11:46:11.895 WARN  Total time: 1221 
+11:46:12.927 WARN  ~~ LOOPS: 3. ENTITY #: 539//216. VIEW #: 1. BACKLOGGED :: 934.000%! ~~ 
+11:46:12.927 WARN  Total activation time: 4 
+11:46:12.927 WARN  Total collision time: 897 
+11:46:12.927 WARN  Total cycle time: 32 
+11:46:12.927 WARN  Total player update time: 5 
+11:46:12.927 WARN  Total lb+minimap processing time: 11 
+11:46:12.927 WARN  Total entity physics calculation time: 1 
+11:46:12.928 WARN  Total entity life+thought cycle time: 16 
+11:46:12.928 WARN  Total entity selfie-taking time: 4 
+11:46:12.928 WARN  Total time: 970 
+11:46:21.604 WARN  ~~ LOOPS: 3. ENTITY #: 738//256. VIEW #: 1. BACKLOGGED :: 1350.000%! ~~ 
+11:46:21.605 WARN  Total activation time: 7 
+11:46:21.605 WARN  Total collision time: 1254 
+11:46:21.605 WARN  Total cycle time: 89 
+11:46:21.605 WARN  Total player update time: 15 
+11:46:21.606 WARN  Total lb+minimap processing time: 31 
+11:46:21.606 WARN  Total entity physics calculation time: 3 
+11:46:21.606 WARN  Total entity life+thought cycle time: 76 
+11:46:21.606 WARN  Total entity selfie-taking time: 2 
+11:46:21.607 WARN  Total time: 1477 
+11:46:22.791 WARN  ~~ LOOPS: 3. ENTITY #: 739//244. VIEW #: 1. BACKLOGGED :: 1087.000%! ~~ 
+11:46:22.791 WARN  Total activation time: 17 
+11:46:22.791 WARN  Total collision time: 999 
+11:46:22.791 WARN  Total cycle time: 71 
+11:46:22.791 WARN  Total player update time: 7 
+11:46:22.791 WARN  Total lb+minimap processing time: 19 
+11:46:22.791 WARN  Total entity physics calculation time: 1 
+11:46:22.791 WARN  Total entity life+thought cycle time: 51 
+11:46:22.791 WARN  Total entity selfie-taking time: 2 
+11:46:22.791 WARN  Total time: 1167 
+11:46:52.798 WARN  ~~ LOOPS: 13. ENTITY #: 745//197. VIEW #: 1. BACKLOGGED :: 184.385%! ~~ 
+11:46:52.798 WARN  Total activation time: 31 
+11:46:52.798 WARN  Total collision time: 553 
+11:46:52.798 WARN  Total cycle time: 215 
+11:46:52.798 WARN  Total player update time: 30 
+11:46:52.798 WARN  Total lb+minimap processing time: 36 
+11:46:52.798 WARN  Total entity physics calculation time: 11 
+11:46:52.798 WARN  Total entity life+thought cycle time: 142 
+11:46:52.798 WARN  Total entity selfie-taking time: 10 
+11:46:52.798 WARN  Total time: 1028 
+11:46:53.907 WARN  ~~ LOOPS: 4. ENTITY #: 746//318. VIEW #: 1. BACKLOGGED :: 683.250%! ~~ 
+11:46:53.907 WARN  Total activation time: 16 
+11:46:53.907 WARN  Total collision time: 773 
+11:46:53.907 WARN  Total cycle time: 122 
+11:46:53.907 WARN  Total player update time: 28 
+11:46:53.907 WARN  Total lb+minimap processing time: 76 
+11:46:53.907 WARN  Total entity physics calculation time: 13 
+11:46:53.907 WARN  Total entity life+thought cycle time: 79 
+11:46:53.907 WARN  Total entity selfie-taking time: 16 
+11:46:53.907 WARN  Total time: 1123 
+11:46:55.154 WARN  ~~ LOOPS: 4. ENTITY #: 737//315. VIEW #: 1. BACKLOGGED :: 663.000%! ~~ 
+11:46:55.154 WARN  Total activation time: 11 
+11:46:55.154 WARN  Total collision time: 782 
+11:46:55.154 WARN  Total cycle time: 91 
+11:46:55.154 WARN  Total player update time: 27 
+11:46:55.154 WARN  Total lb+minimap processing time: 144 
+11:46:55.154 WARN  Total entity physics calculation time: 6 
+11:46:55.154 WARN  Total entity life+thought cycle time: 52 
+11:46:55.154 WARN  Total entity selfie-taking time: 4 
+11:46:55.154 WARN  Total time: 1117 
+11:46:56.189 WARN  ~~ LOOPS: 7. ENTITY #: 728//150. VIEW #: 1. BACKLOGGED :: 274.286%! ~~ 
+11:46:56.189 WARN  Total activation time: 62 
+11:46:56.190 WARN  Total collision time: 316 
+11:46:56.190 WARN  Total cycle time: 262 
+11:46:56.190 WARN  Total player update time: 95 
+11:46:56.190 WARN  Total lb+minimap processing time: 34 
+11:46:56.190 WARN  Total entity physics calculation time: 13 
+11:46:56.190 WARN  Total entity life+thought cycle time: 130 
+11:46:56.190 WARN  Total entity selfie-taking time: 4 
+11:46:56.190 WARN  Total time: 916 
+11:47:08.733 WARN  ~~ LOOPS: 10. ENTITY #: 715//150. VIEW #: 1. BACKLOGGED :: 197.400%! ~~ 
+11:47:08.733 WARN  Total activation time: 24 
+11:47:08.733 WARN  Total collision time: 550 
+11:47:08.734 WARN  Total cycle time: 84 
+11:47:08.734 WARN  Total player update time: 28 
+11:47:08.734 WARN  Total lb+minimap processing time: 61 
+11:47:08.734 WARN  Total entity physics calculation time: 11 
+11:47:08.735 WARN  Total entity life+thought cycle time: 38 
+11:47:08.735 WARN  Total entity selfie-taking time: 3 
+11:47:08.735 WARN  Total time: 799 
+11:47:19.323 WARN  ~~ LOOPS: 13. ENTITY #: 744//245. VIEW #: 1. BACKLOGGED :: 138.231%! ~~ 
+11:47:19.323 WARN  Total activation time: 30 
+11:47:19.323 WARN  Total collision time: 365 
+11:47:19.323 WARN  Total cycle time: 203 
+11:47:19.323 WARN  Total player update time: 78 
+11:47:19.323 WARN  Total lb+minimap processing time: 48 
+11:47:19.323 WARN  Total entity physics calculation time: 22 
+11:47:19.323 WARN  Total entity life+thought cycle time: 83 
+11:47:19.323 WARN  Total entity selfie-taking time: 22 
+11:47:19.323 WARN  Total time: 851 
+13:36:04.896 WARN  ~~ LOOPS: 10. ENTITY #: 299//103. VIEW #: 1. BACKLOGGED :: 214.800%! ~~ 
+13:36:04.896 WARN  Total activation time: 12 
+13:36:04.896 WARN  Total collision time: 594 
+13:36:04.896 WARN  Total cycle time: 110 
+13:36:04.896 WARN  Total player update time: 11 
+13:36:04.896 WARN  Total lb+minimap processing time: 2 
+13:36:04.896 WARN  Total entity physics calculation time: 5 
+13:36:04.896 WARN  Total entity life+thought cycle time: 90 
+13:36:04.896 WARN  Total entity selfie-taking time: 2 
+13:36:04.896 WARN  Total time: 826 
+13:36:11.069 WARN  ~~ LOOPS: 15. ENTITY #: 410//129. VIEW #: 1. BACKLOGGED :: 129.400%! ~~ 
+13:36:11.069 WARN  Total activation time: 16 
+13:36:11.069 WARN  Total collision time: 500 
+13:36:11.069 WARN  Total cycle time: 131 
+13:36:11.069 WARN  Total player update time: 20 
+13:36:11.069 WARN  Total lb+minimap processing time: 3 
+13:36:11.069 WARN  Total entity physics calculation time: 12 
+13:36:11.069 WARN  Total entity life+thought cycle time: 90 
+13:36:11.069 WARN  Total entity selfie-taking time: 7 
+13:36:11.069 WARN  Total time: 779 
+13:36:12.168 WARN  ~~ LOOPS: 6. ENTITY #: 412//217. VIEW #: 1. BACKLOGGED :: 439.000%! ~~ 
+13:36:12.169 WARN  Total activation time: 7 
+13:36:12.169 WARN  Total collision time: 794 
+13:36:12.169 WARN  Total cycle time: 77 
+13:36:12.169 WARN  Total player update time: 24 
+13:36:12.170 WARN  Total lb+minimap processing time: 14 
+13:36:12.170 WARN  Total entity physics calculation time: 2 
+13:36:12.170 WARN  Total entity life+thought cycle time: 44 
+13:36:12.171 WARN  Total entity selfie-taking time: 5 
+13:36:12.171 WARN  Total time: 967 
+13:36:14.234 WARN  ~~ LOOPS: 7. ENTITY #: 710//206. VIEW #: 1. BACKLOGGED :: 350.571%! ~~ 
+13:36:14.234 WARN  Total activation time: 18 
+13:36:14.234 WARN  Total collision time: 609 
+13:36:14.234 WARN  Total cycle time: 191 
+13:36:14.234 WARN  Total player update time: 7 
+13:36:14.234 WARN  Total lb+minimap processing time: 10 
+13:36:14.234 WARN  Total entity physics calculation time: 7 
+13:36:14.234 WARN  Total entity life+thought cycle time: 154 
+13:36:14.234 WARN  Total entity selfie-taking time: 5 
+13:36:14.234 WARN  Total time: 1001 
+13:36:15.801 WARN  ~~ LOOPS: 2. ENTITY #: 710//402. VIEW #: 1. BACKLOGGED :: 2155.500%! ~~ 
+13:36:15.801 WARN  Total activation time: 5 
+13:36:15.801 WARN  Total collision time: 1405 
+13:36:15.801 WARN  Total cycle time: 27 
+13:36:15.801 WARN  Total player update time: 18 
+13:36:15.801 WARN  Total lb+minimap processing time: 26 
+13:36:15.801 WARN  Total entity physics calculation time: 0 
+13:36:15.801 WARN  Total entity life+thought cycle time: 17 
+13:36:15.801 WARN  Total entity selfie-taking time: 1 
+13:36:15.801 WARN  Total time: 1499 
+13:36:16.810 WARN  ~~ LOOPS: 9. ENTITY #: 710//86. VIEW #: 1. BACKLOGGED :: 233.667%! ~~ 
+13:36:16.810 WARN  Total activation time: 11 
+13:36:16.811 WARN  Total collision time: 662 
+13:36:16.811 WARN  Total cycle time: 28 
+13:36:16.811 WARN  Total player update time: 1 
+13:36:16.811 WARN  Total lb+minimap processing time: 9 
+13:36:16.811 WARN  Total entity physics calculation time: 5 
+13:36:16.812 WARN  Total entity life+thought cycle time: 8 
+13:36:16.812 WARN  Total entity selfie-taking time: 1 
+13:36:16.812 WARN  Total time: 725 
+13:36:30.287 WARN  ~~ LOOPS: 14. ENTITY #: 718//335. VIEW #: 1. BACKLOGGED :: 121.500%! ~~ 
+13:36:30.288 WARN  Total activation time: 36 
+13:36:30.288 WARN  Total collision time: 303 
+13:36:30.288 WARN  Total cycle time: 227 
+13:36:30.288 WARN  Total player update time: 49 
+13:36:30.288 WARN  Total lb+minimap processing time: 35 
+13:36:30.288 WARN  Total entity physics calculation time: 18 
+13:36:30.288 WARN  Total entity life+thought cycle time: 141 
+13:36:30.288 WARN  Total entity selfie-taking time: 15 
+13:36:30.288 WARN  Total time: 824 
+13:36:31.333 WARN  ~~ LOOPS: 12. ENTITY #: 718//347. VIEW #: 1. BACKLOGGED :: 140.750%! ~~ 
+13:36:31.333 WARN  Total activation time: 30 
+13:36:31.334 WARN  Total collision time: 305 
+13:36:31.334 WARN  Total cycle time: 228 
+13:36:31.334 WARN  Total player update time: 45 
+13:36:31.334 WARN  Total lb+minimap processing time: 30 
+13:36:31.335 WARN  Total entity physics calculation time: 15 
+13:36:31.335 WARN  Total entity life+thought cycle time: 144 
+13:36:31.335 WARN  Total entity selfie-taking time: 17 
+13:36:31.335 WARN  Total time: 814 
+13:36:32.396 WARN  ~~ LOOPS: 11. ENTITY #: 718//348. VIEW #: 1. BACKLOGGED :: 184.636%! ~~ 
+13:36:32.396 WARN  Total activation time: 42 
+13:36:32.397 WARN  Total collision time: 394 
+13:36:32.397 WARN  Total cycle time: 241 
+13:36:32.397 WARN  Total player update time: 61 
+13:36:32.397 WARN  Total lb+minimap processing time: 41 
+13:36:32.398 WARN  Total entity physics calculation time: 31 
+13:36:32.398 WARN  Total entity life+thought cycle time: 122 
+13:36:32.398 WARN  Total entity selfie-taking time: 35 
+13:36:32.398 WARN  Total time: 967 
+13:36:33.463 WARN  ~~ LOOPS: 11. ENTITY #: 718//359. VIEW #: 1. BACKLOGGED :: 172.091%! ~~ 
+13:36:33.463 WARN  Total activation time: 28 
+13:36:33.463 WARN  Total collision time: 384 
+13:36:33.464 WARN  Total cycle time: 219 
+13:36:33.464 WARN  Total player update time: 39 
+13:36:33.464 WARN  Total lb+minimap processing time: 38 
+13:36:33.465 WARN  Total entity physics calculation time: 13 
+13:36:33.465 WARN  Total entity life+thought cycle time: 143 
+13:36:33.465 WARN  Total entity selfie-taking time: 14 
+13:36:33.465 WARN  Total time: 878 
+13:36:34.539 WARN  ~~ LOOPS: 15. ENTITY #: 719//373. VIEW #: 1. BACKLOGGED :: 113.800%! ~~ 
+13:36:34.539 WARN  Total activation time: 27 
+13:36:34.539 WARN  Total collision time: 325 
+13:36:34.539 WARN  Total cycle time: 217 
+13:36:34.539 WARN  Total player update time: 50 
+13:36:34.539 WARN  Total lb+minimap processing time: 32 
+13:36:34.539 WARN  Total entity physics calculation time: 13 
+13:36:34.539 WARN  Total entity life+thought cycle time: 140 
+13:36:34.539 WARN  Total entity selfie-taking time: 15 
+13:36:34.539 WARN  Total time: 819 
+13:36:35.572 WARN  ~~ LOOPS: 13. ENTITY #: 719//382. VIEW #: 1. BACKLOGGED :: 126.923%! ~~ 
+13:36:35.572 WARN  Total activation time: 30 
+13:36:35.572 WARN  Total collision time: 324 
+13:36:35.572 WARN  Total cycle time: 196 
+13:36:35.572 WARN  Total player update time: 32 
+13:36:35.573 WARN  Total lb+minimap processing time: 31 
+13:36:35.573 WARN  Total entity physics calculation time: 12 
+13:36:35.573 WARN  Total entity life+thought cycle time: 125 
+13:36:35.573 WARN  Total entity selfie-taking time: 9 
+13:36:35.573 WARN  Total time: 759 
+13:36:36.598 WARN  ~~ LOOPS: 14. ENTITY #: 719//388. VIEW #: 1. BACKLOGGED :: 120.214%! ~~ 
+13:36:36.598 WARN  Total activation time: 32 
+13:36:36.598 WARN  Total collision time: 354 
+13:36:36.598 WARN  Total cycle time: 174 
+13:36:36.598 WARN  Total player update time: 36 
+13:36:36.598 WARN  Total lb+minimap processing time: 17 
+13:36:36.598 WARN  Total entity physics calculation time: 14 
+13:36:36.598 WARN  Total entity life+thought cycle time: 111 
+13:36:36.598 WARN  Total entity selfie-taking time: 17 
+13:36:36.598 WARN  Total time: 755 
+13:36:37.631 WARN  ~~ LOOPS: 13. ENTITY #: 722//393. VIEW #: 1. BACKLOGGED :: 131.077%! ~~ 
+13:36:37.631 WARN  Total activation time: 23 
+13:36:37.631 WARN  Total collision time: 361 
+13:36:37.631 WARN  Total cycle time: 184 
+13:36:37.631 WARN  Total player update time: 50 
+13:36:37.631 WARN  Total lb+minimap processing time: 20 
+13:36:37.631 WARN  Total entity physics calculation time: 10 
+13:36:37.631 WARN  Total entity life+thought cycle time: 118 
+13:36:37.631 WARN  Total entity selfie-taking time: 11 
+13:36:37.632 WARN  Total time: 777 
+13:36:38.647 WARN  ~~ LOOPS: 13. ENTITY #: 722//421. VIEW #: 1. BACKLOGGED :: 132.692%! ~~ 
+13:36:38.647 WARN  Total activation time: 25 
+13:36:38.647 WARN  Total collision time: 368 
+13:36:38.648 WARN  Total cycle time: 182 
+13:36:38.648 WARN  Total player update time: 56 
+13:36:38.648 WARN  Total lb+minimap processing time: 16 
+13:36:38.648 WARN  Total entity physics calculation time: 8 
+13:36:38.648 WARN  Total entity life+thought cycle time: 118 
+13:36:38.648 WARN  Total entity selfie-taking time: 13 
+13:36:38.648 WARN  Total time: 786 
+13:36:39.692 WARN  ~~ LOOPS: 13. ENTITY #: 722//438. VIEW #: 1. BACKLOGGED :: 138.692%! ~~ 
+13:36:39.692 WARN  Total activation time: 24 
+13:36:39.692 WARN  Total collision time: 380 
+13:36:39.692 WARN  Total cycle time: 197 
+13:36:39.692 WARN  Total player update time: 57 
+13:36:39.692 WARN  Total lb+minimap processing time: 18 
+13:36:39.692 WARN  Total entity physics calculation time: 12 
+13:36:39.693 WARN  Total entity life+thought cycle time: 131 
+13:36:39.693 WARN  Total entity selfie-taking time: 13 
+13:36:39.693 WARN  Total time: 832 
+13:36:40.794 WARN  ~~ LOOPS: 11. ENTITY #: 723//448. VIEW #: 1. BACKLOGGED :: 189.273%! ~~ 
+13:36:40.794 WARN  Total activation time: 26 
+13:36:40.794 WARN  Total collision time: 456 
+13:36:40.794 WARN  Total cycle time: 212 
+13:36:40.794 WARN  Total player update time: 40 
+13:36:40.794 WARN  Total lb+minimap processing time: 48 
+13:36:40.794 WARN  Total entity physics calculation time: 11 
+13:36:40.794 WARN  Total entity life+thought cycle time: 124 
+13:36:40.794 WARN  Total entity selfie-taking time: 19 
+13:36:40.794 WARN  Total time: 936 
+13:36:41.884 WARN  ~~ LOOPS: 9. ENTITY #: 723//455. VIEW #: 1. BACKLOGGED :: 250.333%! ~~ 
+13:36:41.884 WARN  Total activation time: 22 
+13:36:41.884 WARN  Total collision time: 467 
+13:36:41.884 WARN  Total cycle time: 262 
+13:36:41.884 WARN  Total player update time: 46 
+13:36:41.885 WARN  Total lb+minimap processing time: 33 
+13:36:41.885 WARN  Total entity physics calculation time: 8 
+13:36:41.885 WARN  Total entity life+thought cycle time: 181 
+13:36:41.885 WARN  Total entity selfie-taking time: 18 
+13:36:41.885 WARN  Total time: 1037 
+13:36:42.919 WARN  ~~ LOOPS: 11. ENTITY #: 723//461. VIEW #: 1. BACKLOGGED :: 178.091%! ~~ 
+13:36:42.919 WARN  Total activation time: 30 
+13:36:42.919 WARN  Total collision time: 415 
+13:36:42.920 WARN  Total cycle time: 208 
+13:36:42.920 WARN  Total player update time: 49 
+13:36:42.920 WARN  Total lb+minimap processing time: 32 
+13:36:42.921 WARN  Total entity physics calculation time: 13 
+13:36:42.921 WARN  Total entity life+thought cycle time: 140 
+13:36:42.921 WARN  Total entity selfie-taking time: 13 
+13:36:42.922 WARN  Total time: 900 
+13:36:43.952 WARN  ~~ LOOPS: 12. ENTITY #: 723//455. VIEW #: 1. BACKLOGGED :: 152.500%! ~~ 
+13:36:43.952 WARN  Total activation time: 32 
+13:36:43.952 WARN  Total collision time: 361 
+13:36:43.952 WARN  Total cycle time: 217 
+13:36:43.952 WARN  Total player update time: 51 
+13:36:43.952 WARN  Total lb+minimap processing time: 36 
+13:36:43.952 WARN  Total entity physics calculation time: 14 
+13:36:43.952 WARN  Total entity life+thought cycle time: 137 
+13:36:43.952 WARN  Total entity selfie-taking time: 11 
+13:36:43.952 WARN  Total time: 859 
+13:36:45.160 WARN  ~~ LOOPS: 10. ENTITY #: 723//460. VIEW #: 1. BACKLOGGED :: 231.000%! ~~ 
+13:36:45.160 WARN  Total activation time: 42 
+13:36:45.160 WARN  Total collision time: 447 
+13:36:45.160 WARN  Total cycle time: 281 
+13:36:45.160 WARN  Total player update time: 96 
+13:36:45.160 WARN  Total lb+minimap processing time: 63 
+13:36:45.160 WARN  Total entity physics calculation time: 30 
+13:36:45.160 WARN  Total entity life+thought cycle time: 91 
+13:36:45.160 WARN  Total entity selfie-taking time: 42 
+13:36:45.160 WARN  Total time: 1092 
+13:36:46.230 WARN  ~~ LOOPS: 9. ENTITY #: 723//463. VIEW #: 1. BACKLOGGED :: 234.667%! ~~ 
+13:36:46.230 WARN  Total activation time: 54 
+13:36:46.230 WARN  Total collision time: 380 
+13:36:46.230 WARN  Total cycle time: 270 
+13:36:46.230 WARN  Total player update time: 78 
+13:36:46.230 WARN  Total lb+minimap processing time: 34 
+13:36:46.230 WARN  Total entity physics calculation time: 13 
+13:36:46.230 WARN  Total entity life+thought cycle time: 115 
+13:36:46.231 WARN  Total entity selfie-taking time: 78 
+13:36:46.231 WARN  Total time: 1022 
+13:36:48.293 WARN  ~~ LOOPS: 14. ENTITY #: 724//456. VIEW #: 1. BACKLOGGED :: 105.429%! ~~ 
+13:36:48.293 WARN  Total activation time: 35 
+13:36:48.293 WARN  Total collision time: 302 
+13:36:48.293 WARN  Total cycle time: 155 
+13:36:48.293 WARN  Total player update time: 59 
+13:36:48.293 WARN  Total lb+minimap processing time: 26 
+13:36:48.293 WARN  Total entity physics calculation time: 14 
+13:36:48.293 WARN  Total entity life+thought cycle time: 61 
+13:36:48.293 WARN  Total entity selfie-taking time: 20 
+13:36:48.293 WARN  Total time: 672 
+13:36:50.321 WARN  ~~ LOOPS: 15. ENTITY #: 725//459. VIEW #: 1. BACKLOGGED :: 102.800%! ~~ 
+13:36:50.321 WARN  Total activation time: 41 
+13:36:50.321 WARN  Total collision time: 302 
+13:36:50.321 WARN  Total cycle time: 171 
+13:36:50.321 WARN  Total player update time: 39 
+13:36:50.321 WARN  Total lb+minimap processing time: 21 
+13:36:50.321 WARN  Total entity physics calculation time: 15 
+13:36:50.321 WARN  Total entity life+thought cycle time: 75 
+13:36:50.321 WARN  Total entity selfie-taking time: 23 
+13:36:50.321 WARN  Total time: 687 
+13:36:51.425 WARN  ~~ LOOPS: 12. ENTITY #: 726//462. VIEW #: 1. BACKLOGGED :: 160.250%! ~~ 
+13:36:51.425 WARN  Total activation time: 45 
+13:36:51.426 WARN  Total collision time: 406 
+13:36:51.426 WARN  Total cycle time: 190 
+13:36:51.427 WARN  Total player update time: 63 
+13:36:51.427 WARN  Total lb+minimap processing time: 55 
+13:36:51.427 WARN  Total entity physics calculation time: 17 
+13:36:51.428 WARN  Total entity life+thought cycle time: 84 
+13:36:51.428 WARN  Total entity selfie-taking time: 16 
+13:36:51.428 WARN  Total time: 876 
+13:36:52.498 WARN  ~~ LOOPS: 12. ENTITY #: 726//461. VIEW #: 1. BACKLOGGED :: 166.250%! ~~ 
+13:36:52.498 WARN  Total activation time: 34 
+13:36:52.498 WARN  Total collision time: 442 
+13:36:52.498 WARN  Total cycle time: 189 
+13:36:52.498 WARN  Total player update time: 97 
+13:36:52.499 WARN  Total lb+minimap processing time: 27 
+13:36:52.499 WARN  Total entity physics calculation time: 16 
+13:36:52.499 WARN  Total entity life+thought cycle time: 92 
+13:36:52.499 WARN  Total entity selfie-taking time: 13 
+13:36:52.499 WARN  Total time: 910 
+13:36:53.514 WARN  ~~ LOOPS: 14. ENTITY #: 727//458. VIEW #: 1. BACKLOGGED :: 111.000%! ~~ 
+13:36:53.514 WARN  Total activation time: 32 
+13:36:53.514 WARN  Total collision time: 325 
+13:36:53.514 WARN  Total cycle time: 161 
+13:36:53.514 WARN  Total player update time: 45 
+13:36:53.514 WARN  Total lb+minimap processing time: 25 
+13:36:53.515 WARN  Total entity physics calculation time: 12 
+13:36:53.515 WARN  Total entity life+thought cycle time: 82 
+13:36:53.515 WARN  Total entity selfie-taking time: 19 
+13:36:53.515 WARN  Total time: 701 
+13:36:54.516 WARN  ~~ LOOPS: 14. ENTITY #: 727//461. VIEW #: 1. BACKLOGGED :: 104.143%! ~~ 
+13:36:54.516 WARN  Total activation time: 30 
+13:36:54.516 WARN  Total collision time: 318 
+13:36:54.516 WARN  Total cycle time: 138 
+13:36:54.516 WARN  Total player update time: 44 
+13:36:54.516 WARN  Total lb+minimap processing time: 23 
+13:36:54.516 WARN  Total entity physics calculation time: 13 
+13:36:54.516 WARN  Total entity life+thought cycle time: 61 
+13:36:54.516 WARN  Total entity selfie-taking time: 22 
+13:36:54.516 WARN  Total time: 649 
+13:36:55.570 WARN  ~~ LOOPS: 14. ENTITY #: 728//462. VIEW #: 1. BACKLOGGED :: 124.286%! ~~ 
+13:36:55.570 WARN  Total activation time: 34 
+13:36:55.570 WARN  Total collision time: 382 
+13:36:55.570 WARN  Total cycle time: 164 
+13:36:55.570 WARN  Total player update time: 36 
+13:36:55.570 WARN  Total lb+minimap processing time: 28 
+13:36:55.570 WARN  Total entity physics calculation time: 19 
+13:36:55.570 WARN  Total entity life+thought cycle time: 65 
+13:36:55.570 WARN  Total entity selfie-taking time: 26 
+13:36:55.570 WARN  Total time: 754 
+13:36:56.610 WARN  ~~ LOOPS: 13. ENTITY #: 728//462. VIEW #: 1. BACKLOGGED :: 128.308%! ~~ 
+13:36:56.611 WARN  Total activation time: 26 
+13:36:56.611 WARN  Total collision time: 360 
+13:36:56.611 WARN  Total cycle time: 170 
+13:36:56.611 WARN  Total player update time: 77 
+13:36:56.615 WARN  Total lb+minimap processing time: 34 
+13:36:56.615 WARN  Total entity physics calculation time: 15 
+13:36:56.615 WARN  Total entity life+thought cycle time: 79 
+13:36:56.615 WARN  Total entity selfie-taking time: 22 
+13:36:56.615 WARN  Total time: 783 
+13:36:57.657 WARN  ~~ LOOPS: 11. ENTITY #: 728//457. VIEW #: 1. BACKLOGGED :: 172.091%! ~~ 
+13:36:57.657 WARN  Total activation time: 36 
+13:36:57.657 WARN  Total collision time: 430 
+13:36:57.658 WARN  Total cycle time: 165 
+13:36:57.658 WARN  Total player update time: 82 
+13:36:57.658 WARN  Total lb+minimap processing time: 31 
+13:36:57.659 WARN  Total entity physics calculation time: 16 
+13:36:57.659 WARN  Total entity life+thought cycle time: 68 
+13:36:57.660 WARN  Total entity selfie-taking time: 26 
+13:36:57.660 WARN  Total time: 854 
+13:36:58.670 WARN  ~~ LOOPS: 12. ENTITY #: 728//462. VIEW #: 1. BACKLOGGED :: 141.250%! ~~ 
+13:36:58.670 WARN  Total activation time: 31 
+13:36:58.670 WARN  Total collision time: 342 
+13:36:58.670 WARN  Total cycle time: 192 
+13:36:58.670 WARN  Total player update time: 82 
+13:36:58.670 WARN  Total lb+minimap processing time: 26 
+13:36:58.670 WARN  Total entity physics calculation time: 23 
+13:36:58.670 WARN  Total entity life+thought cycle time: 80 
+13:36:58.670 WARN  Total entity selfie-taking time: 17 
+13:36:58.670 WARN  Total time: 793 
+13:37:01.849 WARN  ~~ LOOPS: 13. ENTITY #: 729//461. VIEW #: 1. BACKLOGGED :: 142.385%! ~~ 
+13:37:01.849 WARN  Total activation time: 58 
+13:37:01.849 WARN  Total collision time: 303 
+13:37:01.849 WARN  Total cycle time: 256 
+13:37:01.849 WARN  Total player update time: 70 
+13:37:01.849 WARN  Total lb+minimap processing time: 48 
+13:37:01.849 WARN  Total entity physics calculation time: 26 
+13:37:01.849 WARN  Total entity life+thought cycle time: 97 
+13:37:01.849 WARN  Total entity selfie-taking time: 22 
+13:37:01.849 WARN  Total time: 880 
+13:37:02.849 WARN  ~~ LOOPS: 13. ENTITY #: 729//459. VIEW #: 1. BACKLOGGED :: 122.769%! ~~ 
+13:37:02.849 WARN  Total activation time: 36 
+13:37:02.849 WARN  Total collision time: 282 
+13:37:02.849 WARN  Total cycle time: 214 
+13:37:02.849 WARN  Total player update time: 64 
+13:37:02.849 WARN  Total lb+minimap processing time: 25 
+13:37:02.849 WARN  Total entity physics calculation time: 19 
+13:37:02.849 WARN  Total entity life+thought cycle time: 68 
+13:37:02.849 WARN  Total entity selfie-taking time: 43 
+13:37:02.849 WARN  Total time: 751 
+13:37:13.269 WARN  ~~ LOOPS: 15. ENTITY #: 730//453. VIEW #: 1. BACKLOGGED :: 107.400%! ~~ 
+13:37:13.269 WARN  Total activation time: 39 
+13:37:13.270 WARN  Total collision time: 304 
+13:37:13.270 WARN  Total cycle time: 194 
+13:37:13.270 WARN  Total player update time: 47 
+13:37:13.271 WARN  Total lb+minimap processing time: 58 
+13:37:13.271 WARN  Total entity physics calculation time: 15 
+13:37:13.271 WARN  Total entity life+thought cycle time: 83 
+13:37:13.272 WARN  Total entity selfie-taking time: 24 
+13:37:13.272 WARN  Total time: 764 
+13:37:15.440 WARN  ~~ LOOPS: 10. ENTITY #: 730//457. VIEW #: 1. BACKLOGGED :: 194.700%! ~~ 
+13:37:15.440 WARN  Total activation time: 30 
+13:37:15.441 WARN  Total collision time: 305 
+13:37:15.441 WARN  Total cycle time: 314 
+13:37:15.441 WARN  Total player update time: 67 
+13:37:15.441 WARN  Total lb+minimap processing time: 147 
+13:37:15.442 WARN  Total entity physics calculation time: 36 
+13:37:15.442 WARN  Total entity life+thought cycle time: 149 
+13:37:15.442 WARN  Total entity selfie-taking time: 28 
+13:37:15.443 WARN  Total time: 1076 
+13:37:16.539 WARN  ~~ LOOPS: 12. ENTITY #: 729//455. VIEW #: 1. BACKLOGGED :: 162.000%! ~~ 
+13:37:16.539 WARN  Total activation time: 70 
+13:37:16.539 WARN  Total collision time: 326 
+13:37:16.539 WARN  Total cycle time: 252 
+13:37:16.539 WARN  Total player update time: 61 
+13:37:16.539 WARN  Total lb+minimap processing time: 54 
+13:37:16.539 WARN  Total entity physics calculation time: 16 
+13:37:16.539 WARN  Total entity life+thought cycle time: 134 
+13:37:16.539 WARN  Total entity selfie-taking time: 19 
+13:37:16.539 WARN  Total time: 932 
+13:37:17.539 WARN  ~~ LOOPS: 14. ENTITY #: 731//449. VIEW #: 1. BACKLOGGED :: 109.500%! ~~ 
+13:37:17.539 WARN  Total activation time: 43 
+13:37:17.539 WARN  Total collision time: 285 
+13:37:17.539 WARN  Total cycle time: 183 
+13:37:17.539 WARN  Total player update time: 28 
+13:37:17.539 WARN  Total lb+minimap processing time: 24 
+13:37:17.539 WARN  Total entity physics calculation time: 20 
+13:37:17.539 WARN  Total entity life+thought cycle time: 83 
+13:37:17.539 WARN  Total entity selfie-taking time: 19 
+13:37:17.539 WARN  Total time: 685 
+13:37:18.610 WARN  ~~ LOOPS: 14. ENTITY #: 731//439. VIEW #: 1. BACKLOGGED :: 118.714%! ~~ 
+13:37:18.611 WARN  Total activation time: 37 
+13:37:18.611 WARN  Total collision time: 317 
+13:37:18.612 WARN  Total cycle time: 200 
+13:37:18.613 WARN  Total player update time: 40 
+13:37:18.613 WARN  Total lb+minimap processing time: 43 
+13:37:18.613 WARN  Total entity physics calculation time: 15 
+13:37:18.613 WARN  Total entity life+thought cycle time: 90 
+13:37:18.614 WARN  Total entity selfie-taking time: 18 
+13:37:18.614 WARN  Total time: 760 
+13:37:19.644 WARN  ~~ LOOPS: 15. ENTITY #: 732//431. VIEW #: 1. BACKLOGGED :: 102.400%! ~~ 
+13:37:19.645 WARN  Total activation time: 47 
+13:37:19.645 WARN  Total collision time: 274 
+13:37:19.645 WARN  Total cycle time: 191 
+13:37:19.645 WARN  Total player update time: 49 
+13:37:19.645 WARN  Total lb+minimap processing time: 31 
+13:37:19.645 WARN  Total entity physics calculation time: 19 
+13:37:19.645 WARN  Total entity life+thought cycle time: 96 
+13:37:19.645 WARN  Total entity selfie-taking time: 16 
+13:37:19.645 WARN  Total time: 723 
+13:37:20.699 WARN  ~~ LOOPS: 13. ENTITY #: 731//414. VIEW #: 1. BACKLOGGED :: 126.923%! ~~ 
+13:37:20.699 WARN  Total activation time: 35 
+13:37:20.699 WARN  Total collision time: 235 
+13:37:20.699 WARN  Total cycle time: 280 
+13:37:20.699 WARN  Total player update time: 39 
+13:37:20.699 WARN  Total lb+minimap processing time: 53 
+13:37:20.699 WARN  Total entity physics calculation time: 18 
+13:37:20.699 WARN  Total entity life+thought cycle time: 170 
+13:37:20.699 WARN  Total entity selfie-taking time: 24 
+13:37:20.699 WARN  Total time: 854 
+13:37:21.760 WARN  ~~ LOOPS: 11. ENTITY #: 731//397. VIEW #: 1. BACKLOGGED :: 155.182%! ~~ 
+13:37:21.766 WARN  Total activation time: 33 
+13:37:21.766 WARN  Total collision time: 263 
+13:37:21.767 WARN  Total cycle time: 273 
+13:37:21.767 WARN  Total player update time: 65 
+13:37:21.767 WARN  Total lb+minimap processing time: 49 
+13:37:21.768 WARN  Total entity physics calculation time: 24 
+13:37:21.768 WARN  Total entity life+thought cycle time: 165 
+13:37:21.768 WARN  Total entity selfie-taking time: 20 
+13:37:21.769 WARN  Total time: 892 
+13:37:31.221 WARN  ~~ LOOPS: 12. ENTITY #: 725//452. VIEW #: 1. BACKLOGGED :: 162.250%! ~~ 
+13:37:31.221 WARN  Total activation time: 38 
+13:37:31.222 WARN  Total collision time: 338 
+13:37:31.222 WARN  Total cycle time: 273 
+13:37:31.222 WARN  Total player update time: 71 
+13:37:31.222 WARN  Total lb+minimap processing time: 47 
+13:37:31.222 WARN  Total entity physics calculation time: 7 
+13:37:31.222 WARN  Total entity life+thought cycle time: 170 
+13:37:31.222 WARN  Total entity selfie-taking time: 21 
+13:37:31.222 WARN  Total time: 965 
+13:37:32.307 WARN  ~~ LOOPS: 12. ENTITY #: 722//447. VIEW #: 1. BACKLOGGED :: 162.500%! ~~ 
+13:37:32.307 WARN  Total activation time: 35 
+13:37:32.307 WARN  Total collision time: 361 
+13:37:32.307 WARN  Total cycle time: 254 
+13:37:32.307 WARN  Total player update time: 64 
+13:37:32.307 WARN  Total lb+minimap processing time: 41 
+13:37:32.307 WARN  Total entity physics calculation time: 17 
+13:37:32.307 WARN  Total entity life+thought cycle time: 140 
+13:37:32.307 WARN  Total entity selfie-taking time: 19 
+13:37:32.307 WARN  Total time: 931 
+13:37:33.344 WARN  ~~ LOOPS: 13. ENTITY #: 722//448. VIEW #: 1. BACKLOGGED :: 124.615%! ~~ 
+13:37:33.344 WARN  Total activation time: 31 
+13:37:33.344 WARN  Total collision time: 359 
+13:37:33.344 WARN  Total cycle time: 150 
+13:37:33.344 WARN  Total player update time: 51 
+13:37:33.344 WARN  Total lb+minimap processing time: 36 
+13:37:33.344 WARN  Total entity physics calculation time: 10 
+13:37:33.344 WARN  Total entity life+thought cycle time: 82 
+13:37:33.344 WARN  Total entity selfie-taking time: 11 
+13:37:33.344 WARN  Total time: 730 
+13:37:34.365 WARN  ~~ LOOPS: 14. ENTITY #: 720//454. VIEW #: 1. BACKLOGGED :: 117.000%! ~~ 
+13:37:34.365 WARN  Total activation time: 26 
+13:37:34.365 WARN  Total collision time: 355 
+13:37:34.365 WARN  Total cycle time: 165 
+13:37:34.365 WARN  Total player update time: 61 
+13:37:34.365 WARN  Total lb+minimap processing time: 20 
+13:37:34.365 WARN  Total entity physics calculation time: 17 
+13:37:34.365 WARN  Total entity life+thought cycle time: 85 
+13:37:34.365 WARN  Total entity selfie-taking time: 15 
+13:37:34.365 WARN  Total time: 744 
+13:37:35.408 WARN  ~~ LOOPS: 13. ENTITY #: 719//452. VIEW #: 1. BACKLOGGED :: 130.615%! ~~ 
+13:37:35.408 WARN  Total activation time: 31 
+13:37:35.408 WARN  Total collision time: 374 
+13:37:35.408 WARN  Total cycle time: 160 
+13:37:35.409 WARN  Total player update time: 51 
+13:37:35.409 WARN  Total lb+minimap processing time: 37 
+13:37:35.409 WARN  Total entity physics calculation time: 13 
+13:37:35.409 WARN  Total entity life+thought cycle time: 77 
+13:37:35.409 WARN  Total entity selfie-taking time: 17 
+13:37:35.409 WARN  Total time: 760 
+13:37:36.429 WARN  ~~ LOOPS: 12. ENTITY #: 712//464. VIEW #: 1. BACKLOGGED :: 155.000%! ~~ 
+13:37:36.429 WARN  Total activation time: 31 
+13:37:36.429 WARN  Total collision time: 448 
+13:37:36.429 WARN  Total cycle time: 141 
+13:37:36.429 WARN  Total player update time: 52 
+13:37:36.429 WARN  Total lb+minimap processing time: 19 
+13:37:36.429 WARN  Total entity physics calculation time: 20 
+13:37:36.429 WARN  Total entity life+thought cycle time: 60 
+13:37:36.429 WARN  Total entity selfie-taking time: 19 
+13:37:36.429 WARN  Total time: 790 
+13:37:37.516 WARN  ~~ LOOPS: 13. ENTITY #: 712//479. VIEW #: 1. BACKLOGGED :: 145.154%! ~~ 
+13:37:37.516 WARN  Total activation time: 30 
+13:37:37.516 WARN  Total collision time: 437 
+13:37:37.516 WARN  Total cycle time: 162 
+13:37:37.516 WARN  Total player update time: 39 
+13:37:37.516 WARN  Total lb+minimap processing time: 38 
+13:37:37.516 WARN  Total entity physics calculation time: 11 
+13:37:37.516 WARN  Total entity life+thought cycle time: 101 
+13:37:37.517 WARN  Total entity selfie-taking time: 12 
+13:37:37.517 WARN  Total time: 830 
+13:37:38.538 WARN  ~~ LOOPS: 12. ENTITY #: 713//486. VIEW #: 1. BACKLOGGED :: 151.250%! ~~ 
+13:37:38.538 WARN  Total activation time: 28 
+13:37:38.538 WARN  Total collision time: 428 
+13:37:38.538 WARN  Total cycle time: 148 
+13:37:38.538 WARN  Total player update time: 60 
+13:37:38.538 WARN  Total lb+minimap processing time: 27 
+13:37:38.538 WARN  Total entity physics calculation time: 12 
+13:37:38.538 WARN  Total entity life+thought cycle time: 86 
+13:37:38.538 WARN  Total entity selfie-taking time: 8 
+13:37:38.538 WARN  Total time: 797 
+13:37:39.574 WARN  ~~ LOOPS: 11. ENTITY #: 713//487. VIEW #: 1. BACKLOGGED :: 175.636%! ~~ 
+13:37:39.574 WARN  Total activation time: 32 
+13:37:39.574 WARN  Total collision time: 457 
+13:37:39.574 WARN  Total cycle time: 155 
+13:37:39.574 WARN  Total player update time: 43 
+13:37:39.574 WARN  Total lb+minimap processing time: 28 
+13:37:39.574 WARN  Total entity physics calculation time: 9 
+13:37:39.574 WARN  Total entity life+thought cycle time: 81 
+13:37:39.574 WARN  Total entity selfie-taking time: 11 
+13:37:39.574 WARN  Total time: 816 
+13:37:40.576 WARN  ~~ LOOPS: 11. ENTITY #: 714//489. VIEW #: 1. BACKLOGGED :: 161.727%! ~~ 
+13:37:40.576 WARN  Total activation time: 25 
+13:37:40.577 WARN  Total collision time: 417 
+13:37:40.577 WARN  Total cycle time: 151 
+13:37:40.577 WARN  Total player update time: 43 
+13:37:40.578 WARN  Total lb+minimap processing time: 22 
+13:37:40.578 WARN  Total entity physics calculation time: 12 
+13:37:40.578 WARN  Total entity life+thought cycle time: 89 
+13:37:40.579 WARN  Total entity selfie-taking time: 11 
+13:37:40.579 WARN  Total time: 770 
+13:37:41.618 WARN  ~~ LOOPS: 10. ENTITY #: 714//489. VIEW #: 1. BACKLOGGED :: 188.700%! ~~ 
+13:37:41.618 WARN  Total activation time: 28 
+13:37:41.618 WARN  Total collision time: 421 
+13:37:41.618 WARN  Total cycle time: 180 
+13:37:41.618 WARN  Total player update time: 59 
+13:37:41.618 WARN  Total lb+minimap processing time: 36 
+13:37:41.618 WARN  Total entity physics calculation time: 14 
+13:37:41.618 WARN  Total entity life+thought cycle time: 90 
+13:37:41.618 WARN  Total entity selfie-taking time: 20 
+13:37:41.618 WARN  Total time: 848 
+13:37:42.801 WARN  ~~ LOOPS: 11. ENTITY #: 712//491. VIEW #: 1. BACKLOGGED :: 221.455%! ~~ 
+13:37:42.801 WARN  Total activation time: 29 
+13:37:42.801 WARN  Total collision time: 447 
+13:37:42.801 WARN  Total cycle time: 336 
+13:37:42.801 WARN  Total player update time: 59 
+13:37:42.801 WARN  Total lb+minimap processing time: 19 
+13:37:42.801 WARN  Total entity physics calculation time: 13 
+13:37:42.801 WARN  Total entity life+thought cycle time: 255 
+13:37:42.801 WARN  Total entity selfie-taking time: 11 
+13:37:42.801 WARN  Total time: 1169 
+13:37:43.844 WARN  ~~ LOOPS: 9. ENTITY #: 708//488. VIEW #: 1. BACKLOGGED :: 231.667%! ~~ 
+13:37:43.845 WARN  Total activation time: 21 
+13:37:43.845 WARN  Total collision time: 399 
+13:37:43.845 WARN  Total cycle time: 275 
+13:37:43.845 WARN  Total player update time: 63 
+13:37:43.846 WARN  Total lb+minimap processing time: 34 
+13:37:43.846 WARN  Total entity physics calculation time: 9 
+13:37:43.846 WARN  Total entity life+thought cycle time: 206 
+13:37:43.847 WARN  Total entity selfie-taking time: 19 
+13:37:43.847 WARN  Total time: 1026 
+13:37:45.071 WARN  ~~ LOOPS: 10. ENTITY #: 709//487. VIEW #: 1. BACKLOGGED :: 233.100%! ~~ 
+13:37:45.071 WARN  Total activation time: 29 
+13:37:45.072 WARN  Total collision time: 581 
+13:37:45.072 WARN  Total cycle time: 167 
+13:37:45.073 WARN  Total player update time: 148 
+13:37:45.073 WARN  Total lb+minimap processing time: 54 
+13:37:45.074 WARN  Total entity physics calculation time: 8 
+13:37:45.075 WARN  Total entity life+thought cycle time: 87 
+13:37:45.075 WARN  Total entity selfie-taking time: 9 
+13:37:45.076 WARN  Total time: 1083 
+13:37:46.149 WARN  ~~ LOOPS: 5. ENTITY #: 710//482. VIEW #: 1. BACKLOGGED :: 511.200%! ~~ 
+13:37:46.149 WARN  Total activation time: 48 
+13:37:46.149 WARN  Total collision time: 593 
+13:37:46.149 WARN  Total cycle time: 211 
+13:37:46.149 WARN  Total player update time: 66 
+13:37:46.149 WARN  Total lb+minimap processing time: 30 
+13:37:46.149 WARN  Total entity physics calculation time: 12 
+13:37:46.149 WARN  Total entity life+thought cycle time: 111 
+13:37:46.149 WARN  Total entity selfie-taking time: 23 
+13:37:46.149 WARN  Total time: 1094 
+13:37:47.291 WARN  ~~ LOOPS: 10. ENTITY #: 711//487. VIEW #: 1. BACKLOGGED :: 237.000%! ~~ 
+13:37:47.292 WARN  Total activation time: 26 
+13:37:47.292 WARN  Total collision time: 546 
+13:37:47.292 WARN  Total cycle time: 218 
+13:37:47.297 WARN  Total player update time: 82 
+13:37:47.297 WARN  Total lb+minimap processing time: 31 
+13:37:47.297 WARN  Total entity physics calculation time: 13 
+13:37:47.298 WARN  Total entity life+thought cycle time: 146 
+13:37:47.298 WARN  Total entity selfie-taking time: 12 
+13:37:47.298 WARN  Total time: 1074 
+13:37:48.451 WARN  ~~ LOOPS: 9. ENTITY #: 712//487. VIEW #: 1. BACKLOGGED :: 282.333%! ~~ 
+13:37:48.451 WARN  Total activation time: 30 
+13:37:48.451 WARN  Total collision time: 563 
+13:37:48.452 WARN  Total cycle time: 254 
+13:37:48.452 WARN  Total player update time: 40 
+13:37:48.452 WARN  Total lb+minimap processing time: 33 
+13:37:48.452 WARN  Total entity physics calculation time: 5 
+13:37:48.452 WARN  Total entity life+thought cycle time: 198 
+13:37:48.452 WARN  Total entity selfie-taking time: 13 
+13:37:48.452 WARN  Total time: 1136 
+13:37:49.485 WARN  ~~ LOOPS: 9. ENTITY #: 714//486. VIEW #: 1. BACKLOGGED :: 230.000%! ~~ 
+13:37:49.485 WARN  Total activation time: 26 
+13:37:49.485 WARN  Total collision time: 510 
+13:37:49.485 WARN  Total cycle time: 154 
+13:37:49.485 WARN  Total player update time: 87 
+13:37:49.485 WARN  Total lb+minimap processing time: 30 
+13:37:49.485 WARN  Total entity physics calculation time: 3 
+13:37:49.485 WARN  Total entity life+thought cycle time: 80 
+13:37:49.485 WARN  Total entity selfie-taking time: 17 
+13:37:49.485 WARN  Total time: 907 
+13:37:50.486 WARN  ~~ LOOPS: 10. ENTITY #: 714//486. VIEW #: 1. BACKLOGGED :: 190.500%! ~~ 
+13:37:50.486 WARN  Total activation time: 24 
+13:37:50.486 WARN  Total collision time: 387 
+13:37:50.486 WARN  Total cycle time: 224 
+13:37:50.486 WARN  Total player update time: 50 
+13:37:50.486 WARN  Total lb+minimap processing time: 17 
+13:37:50.486 WARN  Total entity physics calculation time: 8 
+13:37:50.486 WARN  Total entity life+thought cycle time: 157 
+13:37:50.486 WARN  Total entity selfie-taking time: 14 
+13:37:50.486 WARN  Total time: 881 
+13:37:51.488 WARN  ~~ LOOPS: 10. ENTITY #: 714//487. VIEW #: 1. BACKLOGGED :: 189.900%! ~~ 
+13:37:51.488 WARN  Total activation time: 35 
+13:37:51.488 WARN  Total collision time: 427 
+13:37:51.488 WARN  Total cycle time: 171 
+13:37:51.488 WARN  Total player update time: 44 
+13:37:51.488 WARN  Total lb+minimap processing time: 20 
+13:37:51.488 WARN  Total entity physics calculation time: 15 
+13:37:51.488 WARN  Total entity life+thought cycle time: 83 
+13:37:51.488 WARN  Total entity selfie-taking time: 17 
+13:37:51.488 WARN  Total time: 812 
+13:37:52.505 WARN  ~~ LOOPS: 11. ENTITY #: 717//486. VIEW #: 1. BACKLOGGED :: 179.727%! ~~ 
+13:37:52.505 WARN  Total activation time: 29 
+13:37:52.505 WARN  Total collision time: 387 
+13:37:52.505 WARN  Total cycle time: 243 
+13:37:52.505 WARN  Total player update time: 65 
+13:37:52.505 WARN  Total lb+minimap processing time: 22 
+13:37:52.505 WARN  Total entity physics calculation time: 11 
+13:37:52.505 WARN  Total entity life+thought cycle time: 166 
+13:37:52.505 WARN  Total entity selfie-taking time: 16 
+13:37:52.505 WARN  Total time: 939 
+13:37:53.560 WARN  ~~ LOOPS: 10. ENTITY #: 718//486. VIEW #: 1. BACKLOGGED :: 192.000%! ~~ 
+13:37:53.560 WARN  Total activation time: 33 
+13:37:53.561 WARN  Total collision time: 430 
+13:37:53.561 WARN  Total cycle time: 177 
+13:37:53.561 WARN  Total player update time: 70 
+13:37:53.561 WARN  Total lb+minimap processing time: 46 
+13:37:53.561 WARN  Total entity physics calculation time: 21 
+13:37:53.561 WARN  Total entity life+thought cycle time: 81 
+13:37:53.561 WARN  Total entity selfie-taking time: 15 
+13:37:53.561 WARN  Total time: 873 
+13:37:54.576 WARN  ~~ LOOPS: 11. ENTITY #: 718//488. VIEW #: 1. BACKLOGGED :: 169.364%! ~~ 
+13:37:54.576 WARN  Total activation time: 22 
+13:37:54.576 WARN  Total collision time: 350 
+13:37:54.576 WARN  Total cycle time: 249 
+13:37:54.576 WARN  Total player update time: 27 
+13:37:54.576 WARN  Total lb+minimap processing time: 26 
+13:37:54.576 WARN  Total entity physics calculation time: 8 
+13:37:54.576 WARN  Total entity life+thought cycle time: 187 
+13:37:54.576 WARN  Total entity selfie-taking time: 11 
+13:37:54.576 WARN  Total time: 880 
+13:37:55.648 WARN  ~~ LOOPS: 11. ENTITY #: 720//483. VIEW #: 1. BACKLOGGED :: 184.364%! ~~ 
+13:37:55.648 WARN  Total activation time: 35 
+13:37:55.648 WARN  Total collision time: 392 
+13:37:55.648 WARN  Total cycle time: 249 
+13:37:55.648 WARN  Total player update time: 35 
+13:37:55.648 WARN  Total lb+minimap processing time: 33 
+13:37:55.648 WARN  Total entity physics calculation time: 11 
+13:37:55.648 WARN  Total entity life+thought cycle time: 170 
+13:37:55.648 WARN  Total entity selfie-taking time: 12 
+13:37:55.648 WARN  Total time: 937 
+13:37:56.754 WARN  ~~ LOOPS: 13. ENTITY #: 720//480. VIEW #: 1. BACKLOGGED :: 153.692%! ~~ 
+13:37:56.754 WARN  Total activation time: 31 
+13:37:56.754 WARN  Total collision time: 406 
+13:37:56.754 WARN  Total cycle time: 229 
+13:37:56.754 WARN  Total player update time: 35 
+13:37:56.754 WARN  Total lb+minimap processing time: 29 
+13:37:56.754 WARN  Total entity physics calculation time: 2 
+13:37:56.754 WARN  Total entity life+thought cycle time: 154 
+13:37:56.754 WARN  Total entity selfie-taking time: 16 
+13:37:56.754 WARN  Total time: 902 
+13:37:57.771 WARN  ~~ LOOPS: 10. ENTITY #: 717//483. VIEW #: 1. BACKLOGGED :: 187.500%! ~~ 
+13:37:57.771 WARN  Total activation time: 42 
+13:37:57.771 WARN  Total collision time: 391 
+13:37:57.772 WARN  Total cycle time: 192 
+13:37:57.772 WARN  Total player update time: 50 
+13:37:57.772 WARN  Total lb+minimap processing time: 47 
+13:37:57.772 WARN  Total entity physics calculation time: 11 
+13:37:57.772 WARN  Total entity life+thought cycle time: 101 
+13:37:57.772 WARN  Total entity selfie-taking time: 21 
+13:37:57.772 WARN  Total time: 855 
+13:37:58.832 WARN  ~~ LOOPS: 12. ENTITY #: 718//472. VIEW #: 1. BACKLOGGED :: 159.500%! ~~ 
+13:37:58.832 WARN  Total activation time: 36 
+13:37:58.832 WARN  Total collision time: 328 
+13:37:58.832 WARN  Total cycle time: 274 
+13:37:58.832 WARN  Total player update time: 43 
+13:37:58.832 WARN  Total lb+minimap processing time: 40 
+13:37:58.832 WARN  Total entity physics calculation time: 18 
+13:37:58.832 WARN  Total entity life+thought cycle time: 152 
+13:37:58.832 WARN  Total entity selfie-taking time: 21 
+13:37:58.832 WARN  Total time: 912 
+13:37:59.922 WARN  ~~ LOOPS: 12. ENTITY #: 710//479. VIEW #: 1. BACKLOGGED :: 140.250%! ~~ 
+13:37:59.922 WARN  Total activation time: 38 
+13:37:59.923 WARN  Total collision time: 256 
+13:37:59.925 WARN  Total cycle time: 267 
+13:37:59.926 WARN  Total player update time: 54 
+13:37:59.926 WARN  Total lb+minimap processing time: 83 
+13:37:59.927 WARN  Total entity physics calculation time: 14 
+13:37:59.927 WARN  Total entity life+thought cycle time: 161 
+13:37:59.928 WARN  Total entity selfie-taking time: 23 
+13:37:59.929 WARN  Total time: 896 
+13:38:01.096 WARN  ~~ LOOPS: 13. ENTITY #: 663//466. VIEW #: 1. BACKLOGGED :: 163.846%! ~~ 
+13:38:01.097 WARN  Total activation time: 38 
+13:38:01.097 WARN  Total collision time: 364 
+13:38:01.097 WARN  Total cycle time: 308 
+13:38:01.098 WARN  Total player update time: 85 
+13:38:01.098 WARN  Total lb+minimap processing time: 35 
+13:38:01.103 WARN  Total entity physics calculation time: 26 
+13:38:01.104 WARN  Total entity life+thought cycle time: 142 
+13:38:01.104 WARN  Total entity selfie-taking time: 27 
+13:38:01.105 WARN  Total time: 1025 
+13:38:02.120 WARN  ~~ LOOPS: 10. ENTITY #: 625//433. VIEW #: 1. BACKLOGGED :: 179.100%! ~~ 
+13:38:02.120 WARN  Total activation time: 30 
+13:38:02.120 WARN  Total collision time: 310 
+13:38:02.120 WARN  Total cycle time: 256 
+13:38:02.120 WARN  Total player update time: 71 
+13:38:02.120 WARN  Total lb+minimap processing time: 53 
+13:38:02.120 WARN  Total entity physics calculation time: 21 
+13:38:02.120 WARN  Total entity life+thought cycle time: 122 
+13:38:02.120 WARN  Total entity selfie-taking time: 28 
+13:38:02.120 WARN  Total time: 891 
+13:38:03.121 WARN  ~~ LOOPS: 13. ENTITY #: 550//365. VIEW #: 1. BACKLOGGED :: 129.231%! ~~ 
+13:38:03.121 WARN  Total activation time: 31 
+13:38:03.121 WARN  Total collision time: 308 
+13:38:03.121 WARN  Total cycle time: 221 
+13:38:03.121 WARN  Total player update time: 66 
+13:38:03.121 WARN  Total lb+minimap processing time: 38 
+13:38:03.121 WARN  Total entity physics calculation time: 15 
+13:38:03.121 WARN  Total entity life+thought cycle time: 86 
+13:38:03.121 WARN  Total entity selfie-taking time: 15 
+13:38:03.121 WARN  Total time: 780 
+13:40:06.655 WARN  ~~ LOOPS: 9. ENTITY #: 477//47. VIEW #: 1. BACKLOGGED :: 485.000%! ~~ 
+13:40:06.655 WARN  Total activation time: 7 
+13:40:06.655 WARN  Total collision time: 1314 
+13:40:06.655 WARN  Total cycle time: 134 
+13:40:06.655 WARN  Total player update time: 8 
+13:40:06.655 WARN  Total lb+minimap processing time: 3 
+13:40:06.655 WARN  Total entity physics calculation time: 1 
+13:40:06.655 WARN  Total entity life+thought cycle time: 122 
+13:40:06.655 WARN  Total entity selfie-taking time: 2 
+13:40:06.655 WARN  Total time: 1591 
+13:40:07.899 WARN  ~~ LOOPS: 2. ENTITY #: 477//317. VIEW #: 1. BACKLOGGED :: 1746.000%! ~~ 
+13:40:07.899 WARN  Total activation time: 6 
+13:40:07.899 WARN  Total collision time: 1108 
+13:40:07.899 WARN  Total cycle time: 50 
+13:40:07.899 WARN  Total player update time: 13 
+13:40:07.899 WARN  Total lb+minimap processing time: 6 
+13:40:07.899 WARN  Total entity physics calculation time: 2 
+13:40:07.899 WARN  Total entity life+thought cycle time: 39 
+13:40:07.899 WARN  Total entity selfie-taking time: 3 
+13:40:07.899 WARN  Total time: 1227 
+13:40:09.289 WARN  ~~ LOOPS: 3. ENTITY #: 477//305. VIEW #: 1. BACKLOGGED :: 1304.000%! ~~ 
+13:40:09.289 WARN  Total activation time: 4 
+13:40:09.289 WARN  Total collision time: 1267 
+13:40:09.289 WARN  Total cycle time: 33 
+13:40:09.289 WARN  Total player update time: 6 
+13:40:09.289 WARN  Total lb+minimap processing time: 2 
+13:40:09.289 WARN  Total entity physics calculation time: 1 
+13:40:09.289 WARN  Total entity life+thought cycle time: 25 
+13:40:09.289 WARN  Total entity selfie-taking time: 1 
+13:40:09.289 WARN  Total time: 1339 
+13:40:15.775 WARN  ~~ LOOPS: 1. ENTITY #: 491//232. VIEW #: 1. BACKLOGGED :: 3984.000%! ~~ 
+13:40:15.775 WARN  Total activation time: 3 
+13:40:15.775 WARN  Total collision time: 1284 
+13:40:15.775 WARN  Total cycle time: 41 
+13:40:15.775 WARN  Total player update time: 5 
+13:40:15.775 WARN  Total lb+minimap processing time: 4 
+13:40:15.775 WARN  Total entity physics calculation time: 0 
+13:40:15.775 WARN  Total entity life+thought cycle time: 36 
+13:40:15.775 WARN  Total entity selfie-taking time: 2 
+13:40:15.775 WARN  Total time: 1375 
+13:40:17.241 WARN  ~~ LOOPS: 2. ENTITY #: 492//327. VIEW #: 1. BACKLOGGED :: 2026.500%! ~~ 
+13:40:17.241 WARN  Total activation time: 5 
+13:40:17.241 WARN  Total collision time: 1300 
+13:40:17.241 WARN  Total cycle time: 46 
+13:40:17.241 WARN  Total player update time: 10 
+13:40:17.241 WARN  Total lb+minimap processing time: 5 
+13:40:17.241 WARN  Total entity physics calculation time: 1 
+13:40:17.241 WARN  Total entity life+thought cycle time: 35 
+13:40:17.241 WARN  Total entity selfie-taking time: 4 
+13:40:17.241 WARN  Total time: 1406 
+13:40:18.311 WARN  ~~ LOOPS: 2. ENTITY #: 493//311. VIEW #: 1. BACKLOGGED :: 1507.500%! ~~ 
+13:40:18.311 WARN  Total activation time: 3 
+13:40:18.311 WARN  Total collision time: 984 
+13:40:18.311 WARN  Total cycle time: 18 
+13:40:18.311 WARN  Total player update time: 3 
+13:40:18.311 WARN  Total lb+minimap processing time: 4 
+13:40:18.311 WARN  Total entity physics calculation time: 1 
+13:40:18.311 WARN  Total entity life+thought cycle time: 9 
+13:40:18.311 WARN  Total entity selfie-taking time: 0 
+13:40:18.311 WARN  Total time: 1022 
+18:37:32.798 ERROR Cannot read property 'index' of undefined
+TypeError: Cannot read property 'index' of undefined
+    at set.UPGRADES_TIER_1.forEach (/app/arrasio/src/server/server.js:2075:73)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/app/arrasio/src/server/server.js:2074:33)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3030:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3060:7)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3) 
+18:37:32.798 ERROR basicbed3 
+18:37:32.800 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Page3","GUNS":[{"POSITION":[18,10,-1.4,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.1,"size":1,"health":1,"damage":0.75,"pen":1,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}},{"SHAPE":5}]}}],"UPGRADES_TIER_1":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Samurai","SHAPE":6,"STAT_NAMES":1,"BODY":{"FOV":1.2,"DENSITY":1,"DAMAGE":8},"GUNS":[{"POSITION":[10,10,7,-5,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":1.1,"recoil":1.4,"shudder":0.1,"size":1,"health":3,"damage":0.75,"pen":1,"speed":30,"maxSpeed":1,"range":5,"density":1,"spray":5,"resist":1},"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Minion","TYPE":"minion","DAMAGE_CLASS":0,"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.5,"SPEED":3,"ACCELERATION":0.4,"HEALTH":5,"SHIELD":0,"DAMAGE":1.2,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"BLIND":true},"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"GUNS":[{"POSITION":[17,9,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.2,"size":1,"health":0.4,"damage":0.30000000000000004,"pen":1.2,"speed":4.5,"maxSpeed":1,"range":0.75,"density":1,"spray":30,"resist":1},"WAIT_TO_CYCLE":true,"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":96,"mockup":{"body":{"type":1,"id":108,"index":96,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Minion","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}},"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":-1,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":119,"mockup":{"body":{"type":7,"id":137,"index":119,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":13.195633329495212,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Samurai","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":3.85192,"y":0},"axis":9.69234,"points":[{"x":0.5,"y":3.5},{"x":0.5,"y":-3.5},{"x":-0.965608,"y":0.526118}]}},"position":{"middle":{"x":3.85192,"y":0},"axis":9.69234,"points":[{"x":0.5,"y":3.5},{"x":0.5,"y":-3.5},{"x":-0.965608,"y":0.526118}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"TrapBooster","SHAPE":-4,"BODY":{"HEALTH":12,"SHIELD":4.8,"DENSITY":0.1,"SPEED":47.25,"ACCEL":8},"DANGER":7,"GUNS":[{"POSITION":[18,8,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":0.40824000000000005,"shudder":0.1,"size":1,"health":0.918,"damage":0.6075,"pen":0.9,"speed":4.680000000000001,"maxSpeed":0.7480000000000001,"range":0.8999999999999999,"density":1.2,"spray":15,"resist":1},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":"Front"}},{"POSITION":[13,8,1,0,-1,135,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.134,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[13,8,1,0,1,225,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.134,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[16,8,1,0,0,145,0.1],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":2.268,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[16,8,1,0,0,215,0.1],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":2.268,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}}],"index":276,"mockup":{"body":{"type":7,"id":333,"index":276,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":15.039769647786002,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"TrapBooster","score":0,"guns":[{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.101274,"y":0},"axis":3.50508,"points":[{"x":1.8,"y":0.4},{"x":-1.54007,"y":-0.590061},{"x":-1.08121,"y":1.24538},{"x":-1.54007,"y":0.590061}]}},"position":{"middle":{"x":0.101274,"y":0},"axis":3.50508,"points":[{"x":1.8,"y":0.4},{"x":-1.54007,"y":-0.590061},{"x":-1.08121,"y":1.24538},{"x":-1.54007,"y":0.590061}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Aussie","SHAPE":2,"GUNS":[{"POSITION":[30,1,10,0,0,0,5],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.1,"size":1,"health":1,"damage":0.75,"pen":1,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":0,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":118,"mockup":{"body":{"type":7,"id":136,"index":118,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Aussie","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":1.03125,"y":0},"axis":4.0625,"points":[{"x":3,"y":0.5},{"x":-1,"y":0},{"x":3,"y":-0.5}]}},"position":{"middle":{"x":1.03125,"y":0},"axis":4.0625,"points":[{"x":3,"y":0.5},{"x":-1,"y":0},{"x":3,"y":-0.5}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Spooner","SHAPE":2,"GUNS":[{"POSITION":[0.5,2,20,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":1.1,"recoil":1.4,"shudder":0.1,"size":1,"health":3,"damage":0.75,"pen":1,"speed":30,"maxSpeed":1,"range":5,"density":1,"spray":5,"resist":1},"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Minion","TYPE":"minion","DAMAGE_CLASS":0,"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.5,"SPEED":3,"ACCELERATION":0.4,"HEALTH":5,"SHIELD":0,"DAMAGE":1.2,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"BLIND":true},"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"GUNS":[{"POSITION":[17,9,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.2,"size":1,"health":0.4,"damage":0.30000000000000004,"pen":1.2,"speed":4.5,"maxSpeed":1,"range":0.75,"density":1,"spray":30,"resist":1},"WAIT_TO_CYCLE":true,"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":96,"mockup":{"body":{"type":1,"id":108,"index":96,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Minion","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}},"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":1,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":121,"mockup":{"body":{"type":7,"id":139,"index":121,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Spooner","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":1.42976,"y":0},"axis":4.85952,"points":[{"x":0.05,"y":2},{"x":0.05,"y":-2},{"x":-1,"y":0}]}},"position":{"middle":{"x":1.42976,"y":0},"axis":4.85952,"points":[{"x":0.05,"y":2},{"x":0.05,"y":-2},{"x":-1,"y":0}]}}},null],"index":129} 
+18:38:00.403 ERROR Cannot read property 'index' of undefined
+TypeError: Cannot read property 'index' of undefined
+    at set.UPGRADES_TIER_1.forEach (/app/arrasio/src/server/server.js:2075:73)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/app/arrasio/src/server/server.js:2074:33)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3030:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3060:7)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3) 
+18:38:00.403 ERROR basicbed3 
+18:38:00.404 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Page3","GUNS":[{"POSITION":[18,10,-1.4,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.1,"size":1,"health":1,"damage":0.75,"pen":1,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}},{"SHAPE":5}]}}],"UPGRADES_TIER_1":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Samurai","SHAPE":6,"STAT_NAMES":1,"BODY":{"FOV":1.2,"DENSITY":1,"DAMAGE":8},"GUNS":[{"POSITION":[10,10,7,-5,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":1.1,"recoil":1.4,"shudder":0.1,"size":1,"health":3,"damage":0.75,"pen":1,"speed":45,"maxSpeed":1,"range":5,"density":1,"spray":5,"resist":1},"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Minion","TYPE":"minion","DAMAGE_CLASS":0,"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.5,"SPEED":3,"ACCELERATION":0.4,"HEALTH":5,"SHIELD":0,"DAMAGE":1.2,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"BLIND":true},"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"GUNS":[{"POSITION":[17,9,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.2,"size":1,"health":0.4,"damage":0.30000000000000004,"pen":1.2,"speed":4.5,"maxSpeed":1,"range":0.75,"density":1,"spray":30,"resist":1},"WAIT_TO_CYCLE":true,"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":96,"mockup":{"body":{"type":1,"id":108,"index":96,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Minion","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}},"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":-1,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":119,"mockup":{"body":{"type":7,"id":137,"index":119,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":13.195633329495212,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Samurai","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":3.85192,"y":0},"axis":9.69234,"points":[{"x":0.5,"y":3.5},{"x":0.5,"y":-3.5},{"x":-0.965608,"y":0.526118}]}},"position":{"middle":{"x":3.85192,"y":0},"axis":9.69234,"points":[{"x":0.5,"y":3.5},{"x":0.5,"y":-3.5},{"x":-0.965608,"y":0.526118}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"TrapBooster","SHAPE":-4,"BODY":{"HEALTH":12,"SHIELD":4.8,"DENSITY":0.1,"SPEED":47.25,"ACCEL":8},"DANGER":7,"GUNS":[{"POSITION":[18,8,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":0.40824000000000005,"shudder":0.1,"size":1,"health":0.918,"damage":0.6075,"pen":0.9,"speed":4.680000000000001,"maxSpeed":0.7480000000000001,"range":0.8999999999999999,"density":1.2,"spray":15,"resist":1},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":"Front"}},{"POSITION":[13,8,1,0,-1,135,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.134,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[13,8,1,0,1,225,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.134,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[16,8,1,0,0,145,0.1],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":2.268,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[16,8,1,0,0,215,0.1],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":2.268,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}}],"index":276,"mockup":{"body":{"type":7,"id":333,"index":276,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":15.039769647786002,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"TrapBooster","score":0,"guns":[{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.101274,"y":0},"axis":3.50508,"points":[{"x":1.8,"y":0.4},{"x":-1.54007,"y":-0.590061},{"x":-1.08121,"y":1.24538},{"x":-1.54007,"y":0.590061}]}},"position":{"middle":{"x":0.101274,"y":0},"axis":3.50508,"points":[{"x":1.8,"y":0.4},{"x":-1.54007,"y":-0.590061},{"x":-1.08121,"y":1.24538},{"x":-1.54007,"y":0.590061}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Aussie","SHAPE":2,"GUNS":[{"POSITION":[30,1,10,0,0,0,5],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.1,"size":1,"health":1,"damage":0.75,"pen":1,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":0,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":118,"mockup":{"body":{"type":7,"id":136,"index":118,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Aussie","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":1.03125,"y":0},"axis":4.0625,"points":[{"x":3,"y":0.5},{"x":-1,"y":0},{"x":3,"y":-0.5}]}},"position":{"middle":{"x":1.03125,"y":0},"axis":4.0625,"points":[{"x":3,"y":0.5},{"x":-1,"y":0},{"x":3,"y":-0.5}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Spooner","SHAPE":2,"GUNS":[{"POSITION":[0.5,2,20,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":1.1,"recoil":1.4,"shudder":0.1,"size":1,"health":3,"damage":0.75,"pen":1,"speed":45,"maxSpeed":1,"range":5,"density":1,"spray":5,"resist":1},"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Minion","TYPE":"minion","DAMAGE_CLASS":0,"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.5,"SPEED":3,"ACCELERATION":0.4,"HEALTH":5,"SHIELD":0,"DAMAGE":1.2,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"BLIND":true},"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"GUNS":[{"POSITION":[17,9,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.2,"size":1,"health":0.4,"damage":0.30000000000000004,"pen":1.2,"speed":4.5,"maxSpeed":1,"range":0.75,"density":1,"spray":30,"resist":1},"WAIT_TO_CYCLE":true,"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":96,"mockup":{"body":{"type":1,"id":108,"index":96,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Minion","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}},"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":1,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":121,"mockup":{"body":{"type":7,"id":139,"index":121,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Spooner","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":1.42976,"y":0},"axis":4.85952,"points":[{"x":0.05,"y":2},{"x":0.05,"y":-2},{"x":-1,"y":0}]}},"position":{"middle":{"x":1.42976,"y":0},"axis":4.85952,"points":[{"x":0.05,"y":2},{"x":0.05,"y":-2},{"x":-1,"y":0}]}}},null],"index":129} 
+18:38:18.632 WARN  Non-binary packet. Kicking. 1 warning. 
+18:42:41.700 ERROR Cannot read property 'index' of undefined
+TypeError: Cannot read property 'index' of undefined
+    at set.UPGRADES_TIER_1.forEach (/app/arrasio/src/server/server.js:2075:73)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/app/arrasio/src/server/server.js:2074:33)
+    at exportDefintionsToClient (/app/arrasio/src/server/server.js:3030:26)
+    at Object.<anonymous> (/app/arrasio/src/server/server.js:3060:7)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3) 
+18:42:41.700 ERROR basicbed3 
+18:42:41.702 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Page3","GUNS":[{"POSITION":[18,10,-1.4,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.1,"size":1,"health":1,"damage":0.75,"pen":1,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}},{"SHAPE":5}]}}],"UPGRADES_TIER_1":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Spooner","SHAPE":2,"GUNS":[{"POSITION":[0.5,2,20,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":1.1,"recoil":1.4,"shudder":0.1,"size":1,"health":3,"damage":0.75,"pen":1,"speed":45,"maxSpeed":1,"range":5,"density":1,"spray":5,"resist":1},"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Minion","TYPE":"minion","DAMAGE_CLASS":0,"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.5,"SPEED":3,"ACCELERATION":0.4,"HEALTH":5,"SHIELD":0,"DAMAGE":1.2,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"BLIND":true},"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"GUNS":[{"POSITION":[17,9,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.2,"size":1,"health":0.4,"damage":0.30000000000000004,"pen":1.2,"speed":4.5,"maxSpeed":1,"range":0.75,"density":1,"spray":30,"resist":1},"WAIT_TO_CYCLE":true,"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":96,"mockup":{"body":{"type":1,"id":108,"index":96,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Minion","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}},"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":1,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":121,"mockup":{"body":{"type":7,"id":139,"index":121,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Spooner","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":1.42976,"y":0},"axis":4.85952,"points":[{"x":0.05,"y":2},{"x":0.05,"y":-2},{"x":-1,"y":0}]}},"position":{"middle":{"x":1.42976,"y":0},"axis":4.85952,"points":[{"x":0.05,"y":2},{"x":0.05,"y":-2},{"x":-1,"y":0}]}}},null,{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Samurai","SHAPE":6,"STAT_NAMES":1,"BODY":{"FOV":1.2,"DENSITY":1,"DAMAGE":8},"GUNS":[{"POSITION":[10,10,7,-5,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":1.1,"recoil":1.4,"shudder":0.1,"size":1,"health":3,"damage":0.75,"pen":1,"speed":45,"maxSpeed":1,"range":5,"density":1,"spray":5,"resist":1},"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Minion","TYPE":"minion","DAMAGE_CLASS":0,"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.5,"SPEED":3,"ACCELERATION":0.4,"HEALTH":5,"SHIELD":0,"DAMAGE":1.2,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"BLIND":true},"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"GUNS":[{"POSITION":[17,9,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.2,"size":1,"health":0.4,"damage":0.30000000000000004,"pen":1.2,"speed":4.5,"maxSpeed":1,"range":0.75,"density":1,"spray":30,"resist":1},"WAIT_TO_CYCLE":true,"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":15,"mockup":{"body":{"type":1,"id":15,"index":15,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":96,"mockup":{"body":{"type":1,"id":108,"index":96,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Minion","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}},"position":{"middle":{"x":0.3875,"y":0},"axis":2.775,"points":[{"x":1.7,"y":0.45},{"x":-1,"y":0},{"x":1.7,"y":-0.45}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":-1,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":119,"mockup":{"body":{"type":7,"id":137,"index":119,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":13.195633329495212,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Samurai","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":3.85192,"y":0},"axis":9.69234,"points":[{"x":0.5,"y":3.5},{"x":0.5,"y":-3.5},{"x":-0.965608,"y":0.526118}]}},"position":{"middle":{"x":3.85192,"y":0},"axis":9.69234,"points":[{"x":0.5,"y":3.5},{"x":0.5,"y":-3.5},{"x":-0.965608,"y":0.526118}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"TrapBooster","SHAPE":-4,"BODY":{"HEALTH":12,"SHIELD":4.8,"DENSITY":0.1,"SPEED":47.25,"ACCEL":8},"DANGER":7,"GUNS":[{"POSITION":[18,8,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":0.40824000000000005,"shudder":0.1,"size":1,"health":0.918,"damage":0.6075,"pen":0.9,"speed":4.680000000000001,"maxSpeed":0.7480000000000001,"range":0.8999999999999999,"density":1.2,"spray":15,"resist":1},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":"Front"}},{"POSITION":[13,8,1,0,-1,135,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.134,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[13,8,1,0,1,225,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.134,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[16,8,1,0,0,145,0.1],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":2.268,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}},{"POSITION":[16,8,1,0,0,215,0.1],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":2.268,"shudder":0.2,"size":1,"health":0.459,"damage":0.30375,"pen":0.63,"speed":3.6,"maxSpeed":0.68,"range":0.6,"density":1.2,"spray":7.5,"resist":0.7},"TYPE":{"LABEL":"Set Trap","PARENT":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}}],"SHAPE":-4,"MOTION_TYPE":"motor","CONTROLLERS":["goToMasterTarget"],"BODY":{"SPEED":1,"DENSITY":5},"index":31,"mockup":{"body":{"type":1,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.2533141373155001,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Set Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}},"position":{"middle":{"x":0,"y":0},"axis":2.50663,"points":[{"x":0.414531,"y":1.18278},{"x":-0.414531,"y":-1.18278},{"x":1.18278,"y":-0.414531}]}}},"LABEL":5}}],"index":276,"mockup":{"body":{"type":7,"id":333,"index":276,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":15.039769647786002,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"TrapBooster","score":0,"guns":[{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.101274,"y":0},"axis":3.50508,"points":[{"x":1.8,"y":0.4},{"x":-1.54007,"y":-0.590061},{"x":-1.08121,"y":1.24538},{"x":-1.54007,"y":0.590061}]}},"position":{"middle":{"x":0.101274,"y":0},"axis":3.50508,"points":[{"x":1.8,"y":0.4},{"x":-1.54007,"y":-0.590061},{"x":-1.08121,"y":1.24538},{"x":-1.54007,"y":0.590061}]}}},{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"INVISIBLE":[0,0],"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":64,"mockup":{"body":{"type":7,"id":64,"index":64,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Aussie","SHAPE":2,"GUNS":[{"POSITION":[30,10,0,0,0,0,5],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":18,"recoil":1.4,"shudder":0.1,"size":1,"health":1,"damage":0.75,"pen":1,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":25,"mockup":{"body":{"type":1,"id":25,"index":25,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}},"LABEL":"","STAT_CALCULATOR":0,"WAIT_TO_CYCLE":false,"AUTOFIRE":false,"SYNCS_SKILLS":false,"MAX_CHILDREN":0,"ALT_FIRE":false,"NEGATIVE_RECOIL":false}}],"index":118,"mockup":{"body":{"type":7,"id":136,"index":118,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Aussie","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":1.03125,"y":0},"axis":4.0625,"points":[{"x":3,"y":0.5},{"x":-1,"y":0},{"x":3,"y":-0.5}]}},"position":{"middle":{"x":1.03125,"y":0},"axis":4.0625,"points":[{"x":3,"y":0.5},{"x":-1,"y":0},{"x":3,"y":-0.5}]}}}],"index":129} 
+20:59:46.520 WARN  ~~ LOOPS: 13. ENTITY #: 237//217. VIEW #: 1. BACKLOGGED :: 115.154%! ~~ 
+20:59:46.520 WARN  Total activation time: 82 
+20:59:46.520 WARN  Total collision time: 46 
+20:59:46.521 WARN  Total cycle time: 369 
+20:59:46.521 WARN  Total player update time: 62 
+20:59:46.521 WARN  Total lb+minimap processing time: 6 
+20:59:46.521 WARN  Total entity physics calculation time: 5 
+20:59:46.521 WARN  Total entity life+thought cycle time: 106 
+20:59:46.521 WARN  Total entity selfie-taking time: 39 
+20:59:46.521 WARN  Total time: 715 
+21:25:15.845 WARN  ~~ LOOPS: 14. ENTITY #: 435//213. VIEW #: 1. BACKLOGGED :: 104.571%! ~~ 
+21:25:15.845 WARN  Total activation time: 106 
+21:25:15.845 WARN  Total collision time: 131 
+21:25:15.846 WARN  Total cycle time: 228 
+21:25:15.846 WARN  Total player update time: 23 
+21:25:15.846 WARN  Total lb+minimap processing time: 38 
+21:25:15.846 WARN  Total entity physics calculation time: 22 
+21:25:15.847 WARN  Total entity life+thought cycle time: 76 
+21:25:15.847 WARN  Total entity selfie-taking time: 5 
+21:25:15.847 WARN  Total time: 629 
+
